@@ -6540,6 +6540,7 @@
       "type": "tube",
       "lng": 0.08383780987971237,
       "name": "Debden",
+      "zones": [6],
       "description": "Debden Station, London Underground Ltd., Chigwell Lane, Loughton, Essex, IG10 3TG"
     },
     {
