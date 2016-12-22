@@ -1,6 +1,6 @@
 MATCH (start:Station {name: "Old Street"}), (end:Station)
 CALL apoc.algo.dijkstra(start, end, 'ROUTE', 'time') YIELD path, weight
-WHERE weight < 1200 and length(path) > 0
+WHERE weight < 1200 and length(path) > 0 // maximum 20min
 WITH NODES(path) AS nodes
 UNWIND nodes AS n
 WITH n
