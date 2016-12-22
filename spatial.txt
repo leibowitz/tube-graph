@@ -1,0 +1,6 @@
+call spatial.addWKTLayer('geom', 'POLYGON ((30 10, 40 40, 20 40, 10 20, 30 10))')
+// 
+MATCH (s:Station)
+WITH collect(s) AS stations
+CALL spatial.addNodes('geom', stations) YIELD node
+RETURN count(*)
