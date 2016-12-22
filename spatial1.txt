@@ -1,0 +1,11 @@
+// create a new point layer
+call spatial.addPointLayer("tube-stations")
+// Add all the station nodes to the layer
+match (n:Station) with n
+call spatial.addNode("tube-stations", n)
+yield node
+return node
+// find tube stations within 1km of E2 8DD (near Kingsland Road)
+CALL spatial.withinDistance('tube-stations',{longitude:-0.0793786,latitude:51.528012},1)
+yield node
+return node
