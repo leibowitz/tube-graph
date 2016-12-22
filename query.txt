@@ -1,0 +1,6 @@
+MATCH p = shortestpath((f:Station {name: "Charing Cross"})-[r:CONNECT*..8]-(t:Station {name: "Old Street"}))
+WHERE length(p) > 1
+WITH r, p, reduce(a=[], x IN [x in nodes(p) | x.line] | CASE WHEN x IN a THEN a ELSE a + x END) as lines, reduce( total = 0, v IN r | total + v.time ) as total
+return distinct p, total, length(r), length(lines)
+order by total, length(lines)
+limit 1

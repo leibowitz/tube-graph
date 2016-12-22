@@ -1,0 +1,5 @@
+MATCH (start:Station {name: "Charing Cross"}), (end:Station {name: "Old Street"})
+CALL apoc.algo.dijkstra(start, end, 'CONNECT', 'time') YIELD path, weight
+RETURN path, weight, length(path)
+ORDER BY weight ASC
+LIMIT 1
