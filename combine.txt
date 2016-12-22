@@ -5,8 +5,8 @@ WITH start, 2 * 6371 * asin(sqrt(haversin(radians(lat - start.latitude)) + cos(r
 MATCH (end:Station)
 CALL apoc.algo.dijkstra(start, end, 'ROUTE', 'time') YIELD path, weight
 WHERE weight < 1800 and length(path) > 0 // maximum 30 min
-WITH distance, end, weight, length(path) as stops, reduce(a=[], x IN [x in nodes(path) | x.line] | CASE WHEN x is not null and NOT x IN a THEN a + x ELSE a END) as lines
+WITH start, end, distance, distance*600 + weight as totaltime, length(path) as stops, reduce(a=[], x IN [x in nodes(path) | x.line] | CASE WHEN x is not null and NOT x IN a THEN a + x ELSE a END) as lines
 WHERE length(lines) < 3 // 1 line change maximum
 AND filter(x IN end.zones WHERE 3 in x or 4 in x) // in zone 3 or 4
-RETURN distinct end, weight, distance, stops, lines
-ORDER BY weight, length(lines)
+RETURN distinct start, end, distance, totaltime, stops, lines
+ORDER BY totaltime, length(lines)
