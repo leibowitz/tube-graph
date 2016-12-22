@@ -1,0 +1,4 @@
+MATCH (start:Station {name: "Old Street"}), (end:Station)
+CALL apoc.algo.dijkstra(start, end, 'ROUTE', 'time') YIELD path, weight
+WHERE weight < 800 and length(path) > 0
+RETURN path, end, weight, length(path), nodes(path), reduce(a=[], x IN [x in nodes(path) | x.line] | CASE WHEN x is not null and NOT x IN a THEN a + x ELSE a END) as lines
