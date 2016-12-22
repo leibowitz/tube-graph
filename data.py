@@ -3,6 +3,9 @@ import collections
 import json
 from py2neo import Graph
 
+def encode_name(s):
+    return ''.join(e for e in s if e.isalnum())
+
 class Tube(object):
     def __init__(self):
         self._links = collections.defaultdict(collections.defaultdict)
@@ -59,23 +62,26 @@ with open('./tube-data2.json') as data_file:
 
 stations = collections.OrderedDict(sorted(tube.stations().items()))
 for station, data in stations.items():
-    encoded_station = ''.join(e for e in station if e.isalnum())
+    encoded_station = encode_name(station)
+    # station
+    commands.append("CREATE (%s:Station {name:%s, latitude: %f, longitude: %f})" % (encoded_station, json.dumps(station), data['lat'], data['lng']))
     for line in data['lines']:
-        commands.append("CREATE (%s:Station {name:%s, line: %s, latitude: %f, longitude: %f})" % (encoded_station, json.dumps(station), json.dumps(line), data['lat'], data['lng']))
+        stop_name = encoded_station + "_" + encode_name(line)
+        # stop on a line
+        commands.append("CREATE (%s:Stop {line: %s, station: %s})" % (stop_name, json.dumps(line), json.dumps(station)))
+        # Getting on
+        commands.append("MATCH (a:Station), (b:Stop) WHERE a.name = %s AND b.line = %s AND b.station = %s CREATE (a)-[:ROUTE {time: %d}]->(b)" % (json.dumps(station), json.dumps(line), json.dumps(station), 150))
+        # Getting off
+        commands.append("MATCH (a:Stop), (b:Station) WHERE a.line = %s AND a.station = %s AND b.name = %s CREATE (a)-[:ROUTE {time: %d}]->(b)" % (json.dumps(line), json.dumps(station), json.dumps(station), 150))
 
 for (origin, to, line, data) in tube.links():
-    from_station = ''.join(e for e in origin if e.isalnum())
-    to_station = ''.join(e for e in to if e.isalnum())
-    command = "MATCH (a:Station),(b:Station) " + ("WHERE a.name = %s AND a.line = %s AND b.name = %s AND b.line = %s " % (json.dumps(origin), json.dumps(line), json.dumps(to), json.dumps(line))) + "CREATE (a)-[:CONNECT {line:%s, time: %d}]->(b)" % (json.dumps(line), data['durationSeconds'])
-    commands.append(command)
-
-for (station, origin, to) in tube.interchanges():
-    encoded_station = ''.join(e for e in station if e.isalnum())
-    command = "MATCH (a:Station),(b:Station) " + ("WHERE a.name = %s AND a.line = %s AND b.name = %s AND b.line = %s " % (json.dumps(station), json.dumps(origin), json.dumps(station), json.dumps(to))) + "CREATE (a)-[:CONNECT {time: 300}]->(b)"
-    commands.append(command)
+    stop_name1 = encode_name(origin) + "_" + encode_name(line)
+    stop_name2 = encode_name(to) + "_" + encode_name(line)
+    commands.append("MATCH (a:Stop), (b:Stop) WHERE a.line = %s AND a.station = %s AND b.line = %s AND b.station = %s CREATE (a)-[:ROUTE {time: %d}]->(b)" % (json.dumps(line), json.dumps(origin), json.dumps(line), json.dumps(to), data['durationSeconds']))
 
 graph = Graph("http://neo4j:passwd@localhost:7474/db/data/")
 
 for q in commands:
     graph.run(q)
+
 
