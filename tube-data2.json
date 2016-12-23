@@ -1071,6 +1071,7 @@
       "to": "Queensway"
     },
     {
+      "direction": "Edgware Road",
       "from": "Bayswater",
       "linkType": "Circle",
       "distanceMeters": 965,
@@ -1078,6 +1079,7 @@
       "to": "Paddington"
     },
     {
+      "direction": "Edgware Road",
       "from": "Great Portland Street",
       "linkType": "Circle",
       "distanceMeters": 638,
@@ -1085,6 +1087,7 @@
       "to": "Euston Square"
     },
     {
+      "direction": "Hammersmith",
       "from": "Moorgate",
       "linkType": "Circle",
       "distanceMeters": 638,
@@ -1092,6 +1095,7 @@
       "to": "Barbican"
     },
     {
+      "direction": "Edgware Road",
       "from": "Gloucester Road",
       "linkType": "Circle",
       "distanceMeters": 960,
@@ -1099,6 +1103,7 @@
       "to": "High Street Kensington"
     },
     {
+      "direction": "Hammersmith",
       "from": "Cannon Street",
       "linkType": "Circle",
       "distanceMeters": 313,
@@ -1106,6 +1111,7 @@
       "to": "Monument"
     },
     {
+      "direction": "Edgware Road",
       "from": "Monument",
       "linkType": "Circle",
       "distanceMeters": 305,
@@ -1113,6 +1119,7 @@
       "to": "Cannon Street"
     },
     {
+      "direction": "Hammersmith",
       "from": "Aldgate",
       "linkType": "Circle",
       "distanceMeters": 607,
@@ -1120,6 +1127,7 @@
       "to": "Liverpool Street"
     },
     {
+      "direction": "Edgware Road",
       "from": "Sloane Square",
       "linkType": "Circle",
       "distanceMeters": 1217,
@@ -1127,6 +1135,7 @@
       "to": "South Kensington"
     },
     {
+      "direction": "Hammersmith",
       "from": "Gloucester Road",
       "linkType": "Circle",
       "distanceMeters": 710,
@@ -1134,6 +1143,7 @@
       "to": "South Kensington"
     },
     {
+      "direction": "Edgware Road",
       "from": "Aldgate",
       "linkType": "Circle",
       "distanceMeters": 577,
@@ -1141,6 +1151,7 @@
       "to": "Tower Hill"
     },
     {
+      "direction": "Hammersmith",
       "from": "Monument",
       "linkType": "Circle",
       "distanceMeters": 665,
@@ -1148,6 +1159,7 @@
       "to": "Tower Hill"
     },
     {
+      "direction": "Hammersmith",
       "from": "Paddington",
       "linkType": "Circle",
       "distanceMeters": 978,
@@ -1155,6 +1167,7 @@
       "to": "Bayswater"
     },
     {
+      "direction": "Hammersmith",
       "from": "Sloane Square",
       "linkType": "Circle",
       "distanceMeters": 1044,
@@ -1162,6 +1175,7 @@
       "to": "Victoria"
     },
     {
+      "direction": "Edgware Road",
       "from": "Hammersmith",
       "linkType": "Circle",
       "distanceMeters": 899,
@@ -1169,6 +1183,7 @@
       "to": "Goldhawk Road"
     },
     {
+      "direction": "Hammersmith",
       "from": "Tower Hill",
       "linkType": "Circle",
       "distanceMeters": 563,
@@ -1176,6 +1191,7 @@
       "to": "Aldgate"
     },
     {
+      "direction": "Hammersmith",
       "from": "King's Cross St. Pancras",
       "linkType": "Circle",
       "distanceMeters": 922,
@@ -1183,6 +1199,7 @@
       "to": "Euston Square"
     },
     {
+      "direction": "Edgware Road",
       "from": "Notting Hill Gate",
       "linkType": "Circle",
       "distanceMeters": 801,
@@ -1190,6 +1207,7 @@
       "to": "Bayswater"
     },
     {
+      "direction": "Edgware Road",
       "from": "Victoria",
       "linkType": "Circle",
       "distanceMeters": 1035,
@@ -1197,6 +1215,7 @@
       "to": "Sloane Square"
     },
     {
+      "direction": "Edgware Road",
       "from": "St. James's Park",
       "linkType": "Circle",
       "distanceMeters": 802,
@@ -1204,13 +1223,15 @@
       "to": "Victoria"
     },
     {
-      "from": "Paddington",
+      "direction": "Hammersmith",
+      "from": "Paddington (H&C Line)",
       "linkType": "Circle",
       "distanceMeters": 682,
       "durationSeconds": 120,
       "to": "Royal Oak"
     },
     {
+      "direction": "Edgware Road",
       "from": "Ladbroke Grove",
       "linkType": "Circle",
       "distanceMeters": 776,
@@ -1218,6 +1239,7 @@
       "to": "Westbourne Park"
     },
     {
+      "direction": "Edgware Road",
       "from": "Barbican",
       "linkType": "Circle",
       "distanceMeters": 638,
@@ -1225,6 +1247,7 @@
       "to": "Moorgate"
     },
     {
+      "direction": "Hammersmith",
       "from": "Royal Oak",
       "linkType": "Circle",
       "distanceMeters": 952,
@@ -1232,6 +1255,7 @@
       "to": "Westbourne Park"
     },
     {
+      "direction": "Edgware Road",
       "from": "Goldhawk Road",
       "linkType": "Circle",
       "distanceMeters": 464,
@@ -1239,6 +1263,7 @@
       "to": "Shepherd's Bush Market"
     },
     {
+      "direction": "Edgware Road",
       "from": "Temple",
       "linkType": "Circle",
       "distanceMeters": 714,
@@ -1246,6 +1271,7 @@
       "to": "Embankment"
     },
     {
+      "direction": "Hammersmith",
       "from": "Westbourne Park",
       "linkType": "Circle",
       "distanceMeters": 775,
@@ -1253,6 +1279,7 @@
       "to": "Ladbroke Grove"
     },
     {
+      "direction": "Edgware Road",
       "from": "Baker Street",
       "linkType": "Circle",
       "distanceMeters": 916,
@@ -1260,6 +1287,7 @@
       "to": "Great Portland Street"
     },
     {
+      "direction": "Hammersmith",
       "from": "Notting Hill Gate",
       "linkType": "Circle",
       "distanceMeters": 971,
@@ -1267,6 +1295,7 @@
       "to": "High Street Kensington"
     },
     {
+      "direction": "Hammersmith",
       "from": "Goldhawk Road",
       "linkType": "Circle",
       "distanceMeters": 893,
@@ -1274,6 +1303,7 @@
       "to": "Hammersmith"
     },
     {
+      "direction": "Edgware Road",
       "from": "Westminster",
       "linkType": "Circle",
       "distanceMeters": 715,
@@ -1281,6 +1311,7 @@
       "to": "St. James's Park"
     },
     {
+      "direction": "Hammersmith",
       "from": "Embankment",
       "linkType": "Circle",
       "distanceMeters": 698,
@@ -1288,6 +1319,7 @@
       "to": "Temple"
     },
     {
+      "direction": "Hammersmith",
       "from": "St. James's Park",
       "linkType": "Circle",
       "distanceMeters": 722,
@@ -1295,6 +1327,7 @@
       "to": "Westminster"
     },
     {
+      "direction": "Edgware Road",
       "from": "Westbourne Park",
       "linkType": "Circle",
       "distanceMeters": 958,
@@ -1302,6 +1335,7 @@
       "to": "Royal Oak"
     },
     {
+      "direction": "Hammersmith",
       "from": "Barbican",
       "linkType": "Circle",
       "distanceMeters": 514,
@@ -1309,6 +1343,7 @@
       "to": "Farringdon"
     },
     {
+      "direction": "Hammersmith",
       "from": "Farringdon",
       "linkType": "Circle",
       "distanceMeters": 1853,
@@ -1316,6 +1351,7 @@
       "to": "King's Cross St. Pancras"
     },
     {
+      "direction": "Edgware Road",
       "from": "Blackfriars",
       "linkType": "Circle",
       "distanceMeters": 0,
@@ -1323,14 +1359,15 @@
       "to": "Temple"
     },
     {
-      "direction": "Harrow & Wealdstone",
-      "from": "Edgware Road",
+      "direction": "Hammersmith",
+      "from": "Edgware Road (Circle Line)",
       "linkType": "Circle",
       "distanceMeters": 734,
       "durationSeconds": 120,
       "to": "Paddington"
     },
     {
+      "direction": "Hammersmith",
       "from": "High Street Kensington",
       "linkType": "Circle",
       "distanceMeters": 962,
@@ -1338,6 +1375,7 @@
       "to": "Gloucester Road"
     },
     {
+      "direction": "Edgware Road",
       "from": "Liverpool Street",
       "linkType": "Circle",
       "distanceMeters": 613,
@@ -1345,6 +1383,7 @@
       "to": "Aldgate"
     },
     {
+      "direction": "Hammersmith",
       "from": "Blackfriars",
       "linkType": "Circle",
       "distanceMeters": 586,
@@ -1352,6 +1391,7 @@
       "to": "Mansion House"
     },
     {
+      "direction": "Edgware Road",
       "from": "Mansion House",
       "linkType": "Circle",
       "distanceMeters": 0,
@@ -1359,6 +1399,7 @@
       "to": "Blackfriars"
     },
     {
+      "direction": "Edgware Road",
       "from": "Cannon Street",
       "linkType": "Circle",
       "distanceMeters": 329,
@@ -1366,6 +1407,7 @@
       "to": "Mansion House"
     },
     {
+      "direction": "Hammersmith",
       "from": "Liverpool Street",
       "linkType": "Circle",
       "distanceMeters": 520,
@@ -1373,20 +1415,7 @@
       "to": "Moorgate"
     },
     {
-      "from": "Edgware Road",
-      "linkType": "Circle",
-      "distanceMeters": 0,
-      "durationSeconds": 240,
-      "to": "Baker Street"
-    },
-    {
-      "from": "Baker Street",
-      "linkType": "Circle",
-      "distanceMeters": 804,
-      "durationSeconds": 180,
-      "to": "Edgware Road"
-    },
-    {
+      "direction": "Hammersmith",
       "from": "Euston Square",
       "linkType": "Circle",
       "distanceMeters": 638,
@@ -1394,6 +1423,7 @@
       "to": "Great Portland Street"
     },
     {
+      "direction": "Hammersmith",
       "from": "South Kensington",
       "linkType": "Circle",
       "distanceMeters": 1208,
@@ -1401,13 +1431,15 @@
       "to": "Sloane Square"
     },
     {
+      "direction": "Edgware Road",
       "from": "Paddington",
       "linkType": "Circle",
       "distanceMeters": 758,
       "durationSeconds": 420,
-      "to": "Edgware Road"
+      "to": "Edgware Road (Circle Line)"
     },
     {
+      "direction": "Edgware Road",
       "from": "King's Cross St. Pancras",
       "linkType": "Circle",
       "distanceMeters": 1846,
@@ -1415,6 +1447,7 @@
       "to": "Farringdon"
     },
     {
+      "direction": "Edgware Road",
       "from": "Moorgate",
       "linkType": "Circle",
       "distanceMeters": 507,
@@ -1422,6 +1455,7 @@
       "to": "Liverpool Street"
     },
     {
+      "direction": "Hammersmith",
       "from": "Victoria",
       "linkType": "Circle",
       "distanceMeters": 802,
@@ -1429,6 +1463,7 @@
       "to": "St. James's Park"
     },
     {
+      "direction": "Edgware Road",
       "from": "Farringdon",
       "linkType": "Circle",
       "distanceMeters": 527,
@@ -1436,6 +1471,7 @@
       "to": "Barbican"
     },
     {
+      "direction": "Hammersmith",
       "from": "Bayswater",
       "linkType": "Circle",
       "distanceMeters": 800,
@@ -1443,6 +1479,7 @@
       "to": "Notting Hill Gate"
     },
     {
+      "direction": "Hammersmith",
       "from": "Westminster",
       "linkType": "Circle",
       "distanceMeters": 666,
@@ -1450,6 +1487,7 @@
       "to": "Embankment"
     },
     {
+      "direction": "Hammersmith",
       "from": "Mansion House",
       "linkType": "Circle",
       "distanceMeters": 297,
@@ -1457,6 +1495,7 @@
       "to": "Cannon Street"
     },
     {
+      "direction": "Edgware Road",
       "from": "Latimer Road",
       "linkType": "Circle",
       "distanceMeters": 661,
@@ -1464,6 +1503,7 @@
       "to": "Ladbroke Grove"
     },
     {
+      "direction": "Hammersmith",
       "from": "Latimer Road",
       "linkType": "Circle",
       "distanceMeters": 632,
@@ -1471,6 +1511,7 @@
       "to": "Wood Lane"
     },
     {
+      "direction": "Hammersmith",
       "from": "Wood Lane",
       "linkType": "Circle",
       "distanceMeters": 489,
@@ -1478,6 +1519,15 @@
       "to": "Shepherd's Bush Market"
     },
     {
+      "direction": "Edgware Road",
+      "from": "Shepherd's Bush Market",
+      "linkType": "Circle",
+      "distanceMeters": 489,
+      "durationSeconds": 60,
+      "to": "Wood Lane"
+    },
+    {
+      "direction": "Edgware Road",
       "from": "Euston Square",
       "linkType": "Circle",
       "distanceMeters": 919,
@@ -1485,6 +1535,7 @@
       "to": "King's Cross St. Pancras"
     },
     {
+      "direction": "Hammersmith",
       "from": "Great Portland Street",
       "linkType": "Circle",
       "distanceMeters": 905,
@@ -1492,13 +1543,31 @@
       "to": "Baker Street"
     },
     {
+      "direction": "Edgware Road",
       "from": "Royal Oak",
       "linkType": "Circle",
       "distanceMeters": 682,
       "durationSeconds": 120,
-      "to": "Paddington"
+      "to": "Paddington (H&C Line)"
     },
     {
+      "direction": "Edgware Road",
+      "from": "Paddington (H&C Line)",
+      "linkType": "Circle",
+      "distanceMeters": 1518,
+      "durationSeconds": 240,
+      "to": "Baker Street"
+    },
+    {
+      "direction": "Hammersmith",
+      "from": "Baker Street",
+      "linkType": "Circle",
+      "distanceMeters": 1518,
+      "durationSeconds": 180,
+      "to": "Paddington (H&C Line)"
+    },
+    {
+      "direction": "Hammersmith",
       "from": "Temple",
       "linkType": "Circle",
       "distanceMeters": 826,
@@ -1506,6 +1575,7 @@
       "to": "Blackfriars"
     },
     {
+      "direction": "Edgware Road",
       "from": "Embankment",
       "linkType": "Circle",
       "distanceMeters": 666,
@@ -1513,6 +1583,7 @@
       "to": "Westminster"
     },
     {
+      "direction": "Edgware Road",
       "from": "Tower Hill",
       "linkType": "Circle",
       "distanceMeters": 657,
@@ -1520,6 +1591,7 @@
       "to": "Monument"
     },
     {
+      "direction": "Edgware Road",
       "from": "South Kensington",
       "linkType": "Circle",
       "distanceMeters": 718,
@@ -1527,6 +1599,7 @@
       "to": "Gloucester Road"
     },
     {
+      "direction": "Hammersmith",
       "from": "Shepherd's Bush Market",
       "linkType": "Circle",
       "distanceMeters": 474,
@@ -1534,6 +1607,7 @@
       "to": "Goldhawk Road"
     },
     {
+      "direction": "Edgware Road",
       "from": "High Street Kensington",
       "linkType": "Circle",
       "distanceMeters": 971,
@@ -1541,10 +1615,19 @@
       "to": "Notting Hill Gate"
     },
     {
+      "direction": "Hammersmith",
       "from": "Ladbroke Grove",
       "linkType": "Circle",
       "distanceMeters": 674,
       "durationSeconds": 120,
+      "to": "Latimer Road"
+    },
+    {
+      "direction": "Edgware Road",
+      "from": "Wood Lane",
+      "linkType": "Circle",
+      "distanceMeters": 632,
+      "durationSeconds": 60,
       "to": "Latimer Road"
     },
     {
@@ -1825,7 +1908,7 @@
       "linkType": "District",
       "distanceMeters": 758,
       "durationSeconds": 240,
-      "to": "Edgware Road"
+      "to": "Edgware Road (Circle Line)"
     },
     {
       "from": "Upney",
@@ -2192,7 +2275,7 @@
       "to": "Southfields"
     },
     {
-      "from": "Edgware Road",
+      "from": "Edgware Road (Circle Line)",
       "linkType": "District",
       "distanceMeters": 734,
       "durationSeconds": 120,
@@ -2617,7 +2700,7 @@
     },
     {
       "direction": "Hammersmith",
-      "from": "Edgware Road",
+      "from": "Edgware Road (Circle Line)",
       "linkType": "Hammersmith & City",
       "distanceMeters": 853,
       "durationSeconds": 120,
@@ -2673,7 +2756,7 @@
     },
     {
       "direction": "Barking",
-      "from": "Edgware Road",
+      "from": "Edgware Road (Circle Line)",
       "linkType": "Hammersmith & City",
       "distanceMeters": 791,
       "durationSeconds": 240,
@@ -2685,7 +2768,7 @@
       "linkType": "Hammersmith & City",
       "distanceMeters": 804,
       "durationSeconds": 180,
-      "to": "Edgware Road"
+      "to": "Edgware Road (Circle Line)"
     },
     {
       "direction": "Hammersmith",
@@ -2717,7 +2800,7 @@
       "linkType": "Hammersmith & City",
       "distanceMeters": 858,
       "durationSeconds": 240,
-      "to": "Edgware Road"
+      "to": "Edgware Road (Circle Line)"
     },
     {
       "direction": "Barking",
@@ -7388,6 +7471,14 @@
       "lat": 51.51531041579349,
       "type": "tube",
       "lng": -0.1753900060103242,
+      "name": "Paddington (H&C Line)",
+      "zones": [1],
+      "description": "Paddington Underground Stations, London Underground Ltd., Praed St, London, W2"
+    },
+    {
+      "lat": 51.51531041579349,
+      "type": "tube",
+      "lng": -0.1753900060103242,
       "name": "Paddington",
       "zones": [1],
       "description": "Paddington Underground Stations, London Underground Ltd., Praed St, London, W2"
@@ -8213,6 +8304,14 @@
       "type": "tube",
       "lng": -0.17013507301191544,
       "name": "Edgware Road",
+      "zones": [1],
+      "description": "London Underground, 55 Broadway, London, SW1H 0BD"
+    },
+    {
+      "lat": 51.519920474367346,
+      "type": "tube",
+      "lng": -0.1676661307375839,
+      "name": "Edgware Road (Circle Line)",
       "zones": [1],
       "description": "London Underground, 55 Broadway, London, SW1H 0BD"
     },
