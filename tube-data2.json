@@ -5230,6 +5230,7 @@
       "to": "Hounslow West"
     },
     {
+      "direction": "Brixton",
       "from": "Vauxhall",
       "linkType": "Victoria",
       "distanceMeters": 1871,
@@ -5237,6 +5238,7 @@
       "to": "Stockwell"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Pimlico",
       "linkType": "Victoria",
       "distanceMeters": 1374,
@@ -5244,6 +5246,7 @@
       "to": "Victoria"
     },
     {
+      "direction": "Brixton",
       "from": "Warren Street",
       "linkType": "Victoria",
       "distanceMeters": 955,
@@ -5251,6 +5254,7 @@
       "to": "Oxford Circus"
     },
     {
+      "direction": "Brixton",
       "from": "Oxford Circus",
       "linkType": "Victoria",
       "distanceMeters": 1038,
@@ -5258,6 +5262,7 @@
       "to": "Green Park"
     },
     {
+      "direction": "Brixton",
       "from": "Pimlico",
       "linkType": "Victoria",
       "distanceMeters": 751,
@@ -5265,6 +5270,7 @@
       "to": "Vauxhall"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Finsbury Park",
       "linkType": "Victoria",
       "distanceMeters": 3201,
@@ -5272,6 +5278,7 @@
       "to": "Seven Sisters"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Tottenham Hale",
       "linkType": "Victoria",
       "distanceMeters": 1442,
@@ -5279,6 +5286,7 @@
       "to": "Blackhorse Road"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Stockwell",
       "linkType": "Victoria",
       "distanceMeters": 1864,
@@ -5286,6 +5294,7 @@
       "to": "Vauxhall"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Highbury & Islington",
       "linkType": "Victoria",
       "distanceMeters": 1999,
@@ -5293,6 +5302,7 @@
       "to": "Finsbury Park"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Green Park",
       "linkType": "Victoria",
       "distanceMeters": 1027,
@@ -5300,6 +5310,7 @@
       "to": "Oxford Circus"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Victoria",
       "linkType": "Victoria",
       "distanceMeters": 1152,
@@ -5307,6 +5318,7 @@
       "to": "Green Park"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Blackhorse Road",
       "linkType": "Victoria",
       "distanceMeters": 1621,
@@ -5314,6 +5326,7 @@
       "to": "Walthamstow Central"
     },
     {
+      "direction": "Brixton",
       "from": "Stockwell",
       "linkType": "Victoria",
       "distanceMeters": 1622,
@@ -5321,6 +5334,7 @@
       "to": "Brixton"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Euston",
       "linkType": "Victoria",
       "distanceMeters": 734,
@@ -5328,6 +5342,7 @@
       "to": "King's Cross St. Pancras"
     },
     {
+      "direction": "Brixton",
       "from": "Blackhorse Road",
       "linkType": "Victoria",
       "distanceMeters": 1442,
@@ -5335,6 +5350,7 @@
       "to": "Tottenham Hale"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Warren Street",
       "linkType": "Victoria",
       "distanceMeters": 669,
@@ -5342,6 +5358,7 @@
       "to": "Euston"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Vauxhall",
       "linkType": "Victoria",
       "distanceMeters": 751,
@@ -5349,6 +5366,7 @@
       "to": "Pimlico"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Brixton",
       "linkType": "Victoria",
       "distanceMeters": 1629,
@@ -5356,6 +5374,7 @@
       "to": "Stockwell"
     },
     {
+      "direction": "Brixton",
       "from": "Highbury & Islington",
       "linkType": "Victoria",
       "distanceMeters": 2318,
@@ -5363,6 +5382,7 @@
       "to": "King's Cross St. Pancras"
     },
     {
+      "direction": "Brixton",
       "from": "King's Cross St. Pancras",
       "linkType": "Victoria",
       "distanceMeters": 740,
@@ -5370,6 +5390,7 @@
       "to": "Euston"
     },
     {
+      "direction": "Brixton",
       "from": "Green Park",
       "linkType": "Victoria",
       "distanceMeters": 1156,
@@ -5377,6 +5398,7 @@
       "to": "Victoria"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Seven Sisters",
       "linkType": "Victoria",
       "distanceMeters": 1279,
@@ -5384,6 +5406,7 @@
       "to": "Tottenham Hale"
     },
     {
+      "direction": "Brixton",
       "from": "Finsbury Park",
       "linkType": "Victoria",
       "distanceMeters": 1997,
@@ -5391,6 +5414,7 @@
       "to": "Highbury & Islington"
     },
     {
+      "direction": "Brixton",
       "from": "Walthamstow Central",
       "linkType": "Victoria",
       "distanceMeters": 1621,
@@ -5398,6 +5422,7 @@
       "to": "Blackhorse Road"
     },
     {
+      "direction": "Brixton",
       "from": "Euston",
       "linkType": "Victoria",
       "distanceMeters": 682,
@@ -5405,6 +5430,7 @@
       "to": "Warren Street"
     },
     {
+      "direction": "Brixton",
       "from": "Tottenham Hale",
       "linkType": "Victoria",
       "distanceMeters": 1286,
@@ -5412,6 +5438,7 @@
       "to": "Seven Sisters"
     },
     {
+      "direction": "Brixton",
       "from": "Seven Sisters",
       "linkType": "Victoria",
       "distanceMeters": 3186,
@@ -5419,6 +5446,7 @@
       "to": "Finsbury Park"
     },
     {
+      "direction": "Brixton",
       "from": "Victoria",
       "linkType": "Victoria",
       "distanceMeters": 1362,
@@ -5426,6 +5454,7 @@
       "to": "Pimlico"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "Oxford Circus",
       "linkType": "Victoria",
       "distanceMeters": 962,
@@ -5433,6 +5462,7 @@
       "to": "Warren Street"
     },
     {
+      "direction": "Walthamstow Central",
       "from": "King's Cross St. Pancras",
       "linkType": "Victoria",
       "distanceMeters": 2331,
