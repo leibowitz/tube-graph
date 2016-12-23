@@ -6149,6 +6149,7 @@
       "to": "All Saints"
     },
     {
+      "direction": "Emirates Greenwich Peninsula",
       "from": "Emirates Royal Docks",
       "linkType": "Emirates Air Line",
       "distanceMeters": 1084,
@@ -6156,6 +6157,7 @@
       "to": "Emirates Greenwich Peninsula"
     },
     {
+      "direction": "Emirates Royal Docks",
       "from": "Emirates Greenwich Peninsula",
       "linkType": "Emirates Air Line",
       "distanceMeters": 1084,
