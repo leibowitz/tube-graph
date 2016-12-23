@@ -1478,13 +1478,6 @@
       "to": "Shepherd's Bush Market"
     },
     {
-      "from": "Liverpool Street",
-      "linkType": "Circle",
-      "distanceMeters": 881,
-      "durationSeconds": 180,
-      "to": "Aldgate East"
-    },
-    {
       "from": "Euston Square",
       "linkType": "Circle",
       "distanceMeters": 919,
