@@ -1099,32 +1099,11 @@
       "to": "High Street Kensington"
     },
     {
-      "from": "Stepney Green",
-      "linkType": "Circle",
-      "distanceMeters": 1012,
-      "durationSeconds": 120,
-      "to": "Whitechapel"
-    },
-    {
-      "from": "Bromley-By-Bow",
-      "linkType": "Circle",
-      "distanceMeters": 973,
-      "durationSeconds": 120,
-      "to": "Bow Road"
-    },
-    {
       "from": "Cannon Street",
       "linkType": "Circle",
       "distanceMeters": 313,
       "durationSeconds": 60,
       "to": "Monument"
-    },
-    {
-      "from": "Bromley-By-Bow",
-      "linkType": "Circle",
-      "distanceMeters": 1288,
-      "durationSeconds": 180,
-      "to": "West Ham"
     },
     {
       "from": "Monument",
@@ -1169,13 +1148,6 @@
       "to": "Tower Hill"
     },
     {
-      "from": "Aldgate East",
-      "linkType": "Circle",
-      "distanceMeters": 855,
-      "durationSeconds": 120,
-      "to": "Whitechapel"
-    },
-    {
       "from": "Paddington",
       "linkType": "Circle",
       "distanceMeters": 978,
@@ -1195,13 +1167,6 @@
       "distanceMeters": 899,
       "durationSeconds": 60,
       "to": "Goldhawk Road"
-    },
-    {
-      "from": "Mile End",
-      "linkType": "Circle",
-      "distanceMeters": 1027,
-      "durationSeconds": 120,
-      "to": "Stepney Green"
     },
     {
       "from": "Tower Hill",
@@ -1225,13 +1190,6 @@
       "to": "High Street Kensington"
     },
     {
-      "from": "Aldgate East",
-      "linkType": "Circle",
-      "distanceMeters": 850,
-      "durationSeconds": 180,
-      "to": "Tower Hill"
-    },
-    {
       "from": "Notting Hill Gate",
       "linkType": "Circle",
       "distanceMeters": 801,
@@ -1244,13 +1202,6 @@
       "distanceMeters": 1035,
       "durationSeconds": 120,
       "to": "Sloane Square"
-    },
-    {
-      "from": "Upton Park",
-      "linkType": "Circle",
-      "distanceMeters": 1354,
-      "durationSeconds": 180,
-      "to": "East Ham"
     },
     {
       "from": "St. James's Park",
@@ -1279,13 +1230,6 @@
       "distanceMeters": 638,
       "durationSeconds": 240,
       "to": "Moorgate"
-    },
-    {
-      "from": "Whitechapel",
-      "linkType": "Circle",
-      "distanceMeters": 1012,
-      "durationSeconds": 120,
-      "to": "Stepney Green"
     },
     {
       "from": "Royal Oak",
@@ -1335,13 +1279,6 @@
       "distanceMeters": 893,
       "durationSeconds": 360,
       "to": "Hammersmith"
-    },
-    {
-      "from": "East Ham",
-      "linkType": "Circle",
-      "distanceMeters": 1354,
-      "durationSeconds": 120,
-      "to": "Upton Park"
     },
     {
       "from": "Westminster",
@@ -1401,39 +1338,11 @@
       "to": "Paddington"
     },
     {
-      "from": "Tower Hill",
-      "linkType": "Circle",
-      "distanceMeters": 836,
-      "durationSeconds": 120,
-      "to": "Aldgate East"
-    },
-    {
-      "from": "Barking",
-      "linkType": "Circle",
-      "distanceMeters": 2290,
-      "durationSeconds": 180,
-      "to": "East Ham"
-    },
-    {
       "from": "High Street Kensington",
       "linkType": "Circle",
       "distanceMeters": 962,
       "durationSeconds": 180,
       "to": "Gloucester Road"
-    },
-    {
-      "from": "West Ham",
-      "linkType": "Circle",
-      "distanceMeters": 838,
-      "durationSeconds": 60,
-      "to": "Plaistow"
-    },
-    {
-      "from": "Plaistow",
-      "linkType": "Circle",
-      "distanceMeters": 838,
-      "durationSeconds": 180,
-      "to": "West Ham"
     },
     {
       "from": "Liverpool Street",
@@ -1450,25 +1359,11 @@
       "to": "Mansion House"
     },
     {
-      "from": "Upton Park",
-      "linkType": "Circle",
-      "distanceMeters": 1272,
-      "durationSeconds": 120,
-      "to": "Plaistow"
-    },
-    {
       "from": "Mansion House",
       "linkType": "Circle",
       "distanceMeters": 0,
       "durationSeconds": 120,
       "to": "Blackfriars"
-    },
-    {
-      "from": "Bow Road",
-      "linkType": "Circle",
-      "distanceMeters": 983,
-      "durationSeconds": 120,
-      "to": "Bromley-By-Bow"
     },
     {
       "from": "Cannon Street",
@@ -1499,13 +1394,6 @@
       "to": "Edgware Road"
     },
     {
-      "from": "Bow Road",
-      "linkType": "Circle",
-      "distanceMeters": 618,
-      "durationSeconds": 60,
-      "to": "Mile End"
-    },
-    {
       "from": "Euston Square",
       "linkType": "Circle",
       "distanceMeters": 638,
@@ -1520,13 +1408,6 @@
       "to": "Sloane Square"
     },
     {
-      "from": "Whitechapel",
-      "linkType": "Circle",
-      "distanceMeters": 855,
-      "durationSeconds": 120,
-      "to": "Aldgate East"
-    },
-    {
       "from": "Paddington",
       "linkType": "Circle",
       "distanceMeters": 758,
@@ -1539,20 +1420,6 @@
       "distanceMeters": 1846,
       "durationSeconds": 240,
       "to": "Farringdon"
-    },
-    {
-      "from": "Stepney Green",
-      "linkType": "Circle",
-      "distanceMeters": 1039,
-      "durationSeconds": 120,
-      "to": "Mile End"
-    },
-    {
-      "from": "East Ham",
-      "linkType": "Circle",
-      "distanceMeters": 2298,
-      "durationSeconds": 180,
-      "to": "Barking"
     },
     {
       "from": "Moorgate",
@@ -1588,13 +1455,6 @@
       "distanceMeters": 666,
       "durationSeconds": 120,
       "to": "Embankment"
-    },
-    {
-      "from": "Mile End",
-      "linkType": "Circle",
-      "distanceMeters": 602,
-      "durationSeconds": 60,
-      "to": "Bow Road"
     },
     {
       "from": "Mansion House",
@@ -1660,13 +1520,6 @@
       "to": "Blackfriars"
     },
     {
-      "from": "Plaistow",
-      "linkType": "Circle",
-      "distanceMeters": 1265,
-      "durationSeconds": 120,
-      "to": "Upton Park"
-    },
-    {
       "from": "Embankment",
       "linkType": "Circle",
       "distanceMeters": 666,
@@ -1700,13 +1553,6 @@
       "distanceMeters": 971,
       "durationSeconds": 120,
       "to": "Notting Hill Gate"
-    },
-    {
-      "from": "West Ham",
-      "linkType": "Circle",
-      "distanceMeters": 1288,
-      "durationSeconds": 120,
-      "to": "Bromley-By-Bow"
     },
     {
       "from": "Ladbroke Grove",
