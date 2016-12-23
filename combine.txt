@@ -1,12 +1,17 @@
 // find tube stations within 1km of E2 8DD (near Kingsland Road)
 with 51.528012 as lat, -0.0793786 as lng
 CALL spatial.withinDistance('tube-stations',{longitude:lng,latitude:lat},1) yield node as start
-WITH start, 2 * 6371 * asin(sqrt(haversin(radians(lat - start.latitude)) + cos(radians(lat)) * cos(radians(start.latitude)) * haversin(radians(lng - start.longitude)))) as distance
+WITH start, 2 * 6371 * asin(sqrt(haversin(radians(lat - start.latitude)) + cos(radians(lat)) * cos(radians(start.latitude)) * haversin(radians(lng - start.longitude)))) as distance // distance is between station and original lat/lng in km
 MATCH (end:Station)
 CALL apoc.algo.dijkstra(start, end, 'ROUTE', 'time') YIELD path, weight
-WHERE weight < 1800 and length(path) > 0 // maximum 30 min
-WITH start, end, distance, distance*600 + weight as totaltime, length(path) as stops, reduce(a=[], x IN [x in nodes(path) | x.line] | CASE WHEN x is not null and NOT x IN a THEN a + x ELSE a END) as lines
+WHERE length(path) > 0
+WITH start, end, distance, distance*600 + weight as totaltime, length(path) as stops, reduce(a=[], x IN [x in nodes(path) | x.line] | CASE WHEN x is not null and NOT x IN a THEN a + x ELSE a END) as lines // distance*600 because on average it takes about 10 min to walk 1km
 WHERE length(lines) < 3 // 1 line change maximum
-AND filter(x IN end.zones WHERE 3 in x or 4 in x) // in zone 3 or 4
+AND totaltime < 2400 // maximum 40 min
+AND filter(x IN end.zones WHERE 2 in x or 3 in x or 4 in x or 5 in x) // in zone 2, 3, 4 or 5
+// To get all possible paths with number of stops, distance to start station, total time and number of changes, use this
 RETURN distinct start, end, distance, totaltime, stops, lines
 ORDER BY totaltime, length(lines)
+// To get only end stations and total time, use this
+// RETURN distinct end, avg(totaltime) as time
+// ORDER BY time
