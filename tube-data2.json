@@ -1562,6 +1562,20 @@
       "to": "Ladbroke Grove"
     },
     {
+      "from": "Latimer Road",
+      "linkType": "Circle",
+      "distanceMeters": 632,
+      "durationSeconds": 60,
+      "to": "Wood Lane"
+    },
+    {
+      "from": "Wood Lane",
+      "linkType": "Circle",
+      "distanceMeters": 489,
+      "durationSeconds": 60,
+      "to": "Shepherd's Bush Market"
+    },
+    {
       "from": "Liverpool Street",
       "linkType": "Circle",
       "distanceMeters": 881,
@@ -7982,6 +7996,14 @@
       "name": "White City",
       "zones": [2],
       "description": "White City Station, London Underground Ltd., Wood Lane, London, W12 7RH"
+    },
+    {
+      "lat": 51.509658,
+      "type": "tube",
+      "lng": -0.224458,
+      "name": "Wood Lane",
+      "zones": [2],
+      "description": "Wood Lane Station, London Underground Ltd., Wood Lane, London, W12 7SL"
     },
     {
       "lat": 51.51945524689079,
