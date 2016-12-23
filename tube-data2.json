@@ -5470,6 +5470,7 @@
       "to": "Highbury & Islington"
     },
     {
+      "direction": "Bank",
       "from": "Waterloo",
       "linkType": "Waterloo & City",
       "distanceMeters": 2357,
@@ -5477,6 +5478,7 @@
       "to": "Bank"
     },
     {
+      "direction": "Waterloo",
       "from": "Bank",
       "linkType": "Waterloo & City",
       "distanceMeters": 2357,
