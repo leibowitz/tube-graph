@@ -1,6 +1,7 @@
 {
   "links": [
     {
+      "direction": "Elephant & Castle",
       "from": "Marylebone",
       "linkType": "Bakerloo",
       "distanceMeters": 420,
@@ -8,6 +9,7 @@
       "to": "Baker Street"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Kensal Green",
       "linkType": "Bakerloo",
       "distanceMeters": 1434,
@@ -15,6 +17,7 @@
       "to": "Queen's Park"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Waterloo",
       "linkType": "Bakerloo",
       "distanceMeters": 619,
@@ -22,6 +25,7 @@
       "to": "Lambeth North"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Charing Cross",
       "linkType": "Bakerloo",
       "distanceMeters": 383,
@@ -29,6 +33,7 @@
       "to": "Embankment"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Kilburn Park",
       "linkType": "Bakerloo",
       "distanceMeters": 771,
@@ -36,6 +41,7 @@
       "to": "Queen's Park"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Lambeth North",
       "linkType": "Bakerloo",
       "distanceMeters": 848,
@@ -43,6 +49,7 @@
       "to": "Elephant & Castle"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Wembley Central",
       "linkType": "Bakerloo",
       "distanceMeters": 1288,
@@ -50,6 +57,7 @@
       "to": "North Wembley"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Maida Vale",
       "linkType": "Bakerloo",
       "distanceMeters": 907,
@@ -57,6 +65,7 @@
       "to": "Kilburn Park"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Kenton",
       "linkType": "Bakerloo",
       "distanceMeters": 1772,
@@ -64,6 +73,7 @@
       "to": "Harrow & Wealdstone"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "North Wembley",
       "linkType": "Bakerloo",
       "distanceMeters": 956,
@@ -71,6 +81,7 @@
       "to": "South Kenton"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Kensal Green",
       "linkType": "Bakerloo",
       "distanceMeters": 1390,
@@ -78,6 +89,7 @@
       "to": "Willesden Junction"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Lambeth North",
       "linkType": "Bakerloo",
       "distanceMeters": 627,
@@ -85,6 +97,7 @@
       "to": "Waterloo"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Paddington",
       "linkType": "Bakerloo",
       "distanceMeters": 911,
@@ -92,6 +105,7 @@
       "to": "Warwick Avenue"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Queen's Park",
       "linkType": "Bakerloo",
       "distanceMeters": 764,
@@ -99,6 +113,7 @@
       "to": "Kilburn Park"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Baker Street",
       "linkType": "Bakerloo",
       "distanceMeters": 437,
@@ -106,6 +121,7 @@
       "to": "Marylebone"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Charing Cross",
       "linkType": "Bakerloo",
       "distanceMeters": 639,
@@ -113,6 +129,7 @@
       "to": "Piccadilly Circus"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Kenton",
       "linkType": "Bakerloo",
       "distanceMeters": 1373,
@@ -120,6 +137,7 @@
       "to": "South Kenton"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Regent's Park",
       "linkType": "Bakerloo",
       "distanceMeters": 957,
@@ -127,6 +145,7 @@
       "to": "Baker Street"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Queen's Park",
       "linkType": "Bakerloo",
       "distanceMeters": 1428,
@@ -134,6 +153,7 @@
       "to": "Kensal Green"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Maida Vale",
       "linkType": "Bakerloo",
       "distanceMeters": 804,
@@ -141,6 +161,7 @@
       "to": "Warwick Avenue"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Harlesden",
       "linkType": "Bakerloo",
       "distanceMeters": 1532,
@@ -148,6 +169,7 @@
       "to": "Stonebridge Park"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Wembley Central",
       "linkType": "Bakerloo",
       "distanceMeters": 1729,
@@ -155,6 +177,7 @@
       "to": "Stonebridge Park"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Willesden Junction",
       "linkType": "Bakerloo",
       "distanceMeters": 1390,
@@ -162,6 +185,7 @@
       "to": "Kensal Green"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Kilburn Park",
       "linkType": "Bakerloo",
       "distanceMeters": 907,
@@ -169,6 +193,7 @@
       "to": "Maida Vale"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Paddington",
       "linkType": "Bakerloo",
       "distanceMeters": 665,
@@ -176,6 +201,7 @@
       "to": "Edgware Road"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Waterloo",
       "linkType": "Bakerloo",
       "distanceMeters": 690,
@@ -183,6 +209,7 @@
       "to": "Embankment"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "South Kenton",
       "linkType": "Bakerloo",
       "distanceMeters": 956,
@@ -190,6 +217,7 @@
       "to": "North Wembley"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Stonebridge Park",
       "linkType": "Bakerloo",
       "distanceMeters": 1729,
@@ -197,6 +225,7 @@
       "to": "Wembley Central"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Oxford Circus",
       "linkType": "Bakerloo",
       "distanceMeters": 888,
@@ -204,6 +233,7 @@
       "to": "Regent's Park"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "North Wembley",
       "linkType": "Bakerloo",
       "distanceMeters": 1288,
@@ -211,6 +241,7 @@
       "to": "Wembley Central"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Harrow & Wealdstone",
       "linkType": "Bakerloo",
       "distanceMeters": 1772,
@@ -218,6 +249,7 @@
       "to": "Kenton"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Baker Street",
       "linkType": "Bakerloo",
       "distanceMeters": 971,
@@ -225,6 +257,7 @@
       "to": "Regent's Park"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "South Kenton",
       "linkType": "Bakerloo",
       "distanceMeters": 1373,
@@ -232,6 +265,7 @@
       "to": "Kenton"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Piccadilly Circus",
       "linkType": "Bakerloo",
       "distanceMeters": 631,
@@ -239,6 +273,7 @@
       "to": "Charing Cross"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Oxford Circus",
       "linkType": "Bakerloo",
       "distanceMeters": 888,
@@ -246,6 +281,7 @@
       "to": "Piccadilly Circus"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Warwick Avenue",
       "linkType": "Bakerloo",
       "distanceMeters": 916,
@@ -253,6 +289,7 @@
       "to": "Paddington"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Warwick Avenue",
       "linkType": "Bakerloo",
       "distanceMeters": 804,
@@ -260,6 +297,7 @@
       "to": "Maida Vale"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Stonebridge Park",
       "linkType": "Bakerloo",
       "distanceMeters": 1532,
@@ -267,6 +305,7 @@
       "to": "Harlesden"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Harlesden",
       "linkType": "Bakerloo",
       "distanceMeters": 1048,
@@ -274,6 +313,7 @@
       "to": "Willesden Junction"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Edgware Road",
       "linkType": "Bakerloo",
       "distanceMeters": 661,
@@ -281,6 +321,7 @@
       "to": "Paddington"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Regent's Park",
       "linkType": "Bakerloo",
       "distanceMeters": 879,
@@ -288,6 +329,7 @@
       "to": "Oxford Circus"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Elephant & Castle",
       "linkType": "Bakerloo",
       "distanceMeters": 852,
@@ -295,6 +337,7 @@
       "to": "Lambeth North"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Edgware Road",
       "linkType": "Bakerloo",
       "distanceMeters": 517,
@@ -302,6 +345,7 @@
       "to": "Marylebone"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Willesden Junction",
       "linkType": "Bakerloo",
       "distanceMeters": 1048,
@@ -309,6 +353,7 @@
       "to": "Harlesden"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Embankment",
       "linkType": "Bakerloo",
       "distanceMeters": 376,
@@ -316,6 +361,7 @@
       "to": "Charing Cross"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Piccadilly Circus",
       "linkType": "Bakerloo",
       "distanceMeters": 882,
@@ -323,6 +369,7 @@
       "to": "Oxford Circus"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Marylebone",
       "linkType": "Bakerloo",
       "distanceMeters": 516,
@@ -330,6 +377,7 @@
       "to": "Edgware Road"
     },
     {
+      "direction": "Elephant & Castle",
       "from": "Embankment",
       "linkType": "Bakerloo",
       "distanceMeters": 691,
@@ -1345,6 +1393,7 @@
       "to": "Temple"
     },
     {
+      "direction": "Harrow & Wealdstone",
       "from": "Edgware Road",
       "linkType": "Circle",
       "distanceMeters": 734,
