@@ -1183,13 +1183,6 @@
       "to": "Euston Square"
     },
     {
-      "from": "Earl's Court",
-      "linkType": "Circle",
-      "distanceMeters": 1163,
-      "durationSeconds": 180,
-      "to": "High Street Kensington"
-    },
-    {
       "from": "Notting Hill Gate",
       "linkType": "Circle",
       "distanceMeters": 801,
