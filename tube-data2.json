@@ -2584,6 +2584,7 @@
       "to": "Bromley-By-Bow"
     },
     {
+      "direction": "Barking",
       "from": "Great Portland Street",
       "linkType": "Hammersmith & City",
       "distanceMeters": 638,
@@ -2591,6 +2592,7 @@
       "to": "Euston Square"
     },
     {
+      "direction": "Hammersmith",
       "from": "Moorgate",
       "linkType": "Hammersmith & City",
       "distanceMeters": 638,
@@ -2598,6 +2600,7 @@
       "to": "Barbican"
     },
     {
+      "direction": "Hammersmith",
       "from": "Bromley-By-Bow",
       "linkType": "Hammersmith & City",
       "distanceMeters": 973,
@@ -2605,6 +2608,7 @@
       "to": "Bow Road"
     },
     {
+      "direction": "Hammersmith",
       "from": "Stepney Green",
       "linkType": "Hammersmith & City",
       "distanceMeters": 1012,
@@ -2612,6 +2616,7 @@
       "to": "Whitechapel"
     },
     {
+      "direction": "Barking",
       "from": "Bromley-By-Bow",
       "linkType": "Hammersmith & City",
       "distanceMeters": 1288,
@@ -2619,6 +2624,7 @@
       "to": "West Ham"
     },
     {
+      "direction": "Barking",
       "from": "Aldgate East",
       "linkType": "Hammersmith & City",
       "distanceMeters": 855,
@@ -2626,6 +2632,7 @@
       "to": "Whitechapel"
     },
     {
+      "direction": "Barking",
       "from": "Hammersmith",
       "linkType": "Hammersmith & City",
       "distanceMeters": 899,
@@ -2633,6 +2640,7 @@
       "to": "Goldhawk Road"
     },
     {
+      "direction": "Hammersmith",
       "from": "Mile End",
       "linkType": "Hammersmith & City",
       "distanceMeters": 1027,
@@ -2640,6 +2648,7 @@
       "to": "Stepney Green"
     },
     {
+      "direction": "Hammersmith",
       "from": "King's Cross St. Pancras",
       "linkType": "Hammersmith & City",
       "distanceMeters": 922,
@@ -2647,6 +2656,7 @@
       "to": "Euston Square"
     },
     {
+      "direction": "Barking",
       "from": "Upton Park",
       "linkType": "Hammersmith & City",
       "distanceMeters": 1354,
@@ -2654,6 +2664,7 @@
       "to": "East Ham"
     },
     {
+      "direction": "Barking",
       "from": "Ladbroke Grove",
       "linkType": "Hammersmith & City",
       "distanceMeters": 776,
@@ -2661,6 +2672,7 @@
       "to": "Westbourne Park"
     },
     {
+      "direction": "Hammersmith",
       "from": "Paddington",
       "linkType": "Hammersmith & City",
       "distanceMeters": 682,
@@ -2668,6 +2680,7 @@
       "to": "Royal Oak"
     },
     {
+      "direction": "Barking",
       "from": "Barbican",
       "linkType": "Hammersmith & City",
       "distanceMeters": 638,
@@ -2675,6 +2688,7 @@
       "to": "Moorgate"
     },
     {
+      "direction": "Barking",
       "from": "Whitechapel",
       "linkType": "Hammersmith & City",
       "distanceMeters": 1012,
@@ -2682,6 +2696,7 @@
       "to": "Stepney Green"
     },
     {
+      "direction": "Barking",
       "from": "Goldhawk Road",
       "linkType": "Hammersmith & City",
       "distanceMeters": 464,
@@ -2689,6 +2704,23 @@
       "to": "Shepherd's Bush Market"
     },
     {
+      "direction": "Barking",
+      "from": "Wood Lane",
+      "linkType": "Hammersmith & City",
+      "distanceMeters": 632,
+      "durationSeconds": 60,
+      "to": "Latimer Road"
+    },
+    {
+      "direction": "Barking",
+      "from": "Shepherd's Bush Market",
+      "linkType": "Hammersmith & City",
+      "distanceMeters": 489,
+      "durationSeconds": 60,
+      "to": "Wood Lane"
+    },
+    {
+      "direction": "Hammersmith",
       "from": "Royal Oak",
       "linkType": "Hammersmith & City",
       "distanceMeters": 952,
@@ -2696,6 +2728,7 @@
       "to": "Westbourne Park"
     },
     {
+      "direction": "Hammersmith",
       "from": "Westbourne Park",
       "linkType": "Hammersmith & City",
       "distanceMeters": 775,
@@ -2703,6 +2736,7 @@
       "to": "Ladbroke Grove"
     },
     {
+      "direction": "Barking",
       "from": "Baker Street",
       "linkType": "Hammersmith & City",
       "distanceMeters": 916,
@@ -2710,6 +2744,7 @@
       "to": "Great Portland Street"
     },
     {
+      "direction": "Hammersmith",
       "from": "Goldhawk Road",
       "linkType": "Hammersmith & City",
       "distanceMeters": 893,
@@ -2717,6 +2752,7 @@
       "to": "Hammersmith"
     },
     {
+      "direction": "Hammersmith",
       "from": "East Ham",
       "linkType": "Hammersmith & City",
       "distanceMeters": 1354,
@@ -2724,6 +2760,7 @@
       "to": "Upton Park"
     },
     {
+      "direction": "Barking",
       "from": "Westbourne Park",
       "linkType": "Hammersmith & City",
       "distanceMeters": 958,
@@ -2731,6 +2768,7 @@
       "to": "Royal Oak"
     },
     {
+      "direction": "Hammersmith",
       "from": "Barbican",
       "linkType": "Hammersmith & City",
       "distanceMeters": 514,
@@ -2738,6 +2776,7 @@
       "to": "Farringdon"
     },
     {
+      "direction": "Hammersmith",
       "from": "Farringdon",
       "linkType": "Hammersmith & City",
       "distanceMeters": 1853,
@@ -2745,6 +2784,7 @@
       "to": "King's Cross St. Pancras"
     },
     {
+      "direction": "Hammersmith",
       "from": "Edgware Road",
       "linkType": "Hammersmith & City",
       "distanceMeters": 853,
@@ -2752,6 +2792,7 @@
       "to": "Paddington"
     },
     {
+      "direction": "Hammersmith",
       "from": "Barking",
       "linkType": "Hammersmith & City",
       "distanceMeters": 2201,
@@ -2759,6 +2800,7 @@
       "to": "East Ham"
     },
     {
+      "direction": "Barking",
       "from": "West Ham",
       "linkType": "Hammersmith & City",
       "distanceMeters": 838,
@@ -2766,6 +2808,7 @@
       "to": "Plaistow"
     },
     {
+      "direction": "Hammersmith",
       "from": "Plaistow",
       "linkType": "Hammersmith & City",
       "distanceMeters": 838,
@@ -2773,6 +2816,7 @@
       "to": "West Ham"
     },
     {
+      "direction": "Hammersmith",
       "from": "Upton Park",
       "linkType": "Hammersmith & City",
       "distanceMeters": 1272,
@@ -2780,6 +2824,7 @@
       "to": "Plaistow"
     },
     {
+      "direction": "Barking",
       "from": "Bow Road",
       "linkType": "Hammersmith & City",
       "distanceMeters": 983,
@@ -2787,6 +2832,7 @@
       "to": "Bromley-By-Bow"
     },
     {
+      "direction": "Hammersmith",
       "from": "Liverpool Street",
       "linkType": "Hammersmith & City",
       "distanceMeters": 520,
@@ -2794,6 +2840,7 @@
       "to": "Moorgate"
     },
     {
+      "direction": "Barking",
       "from": "Edgware Road",
       "linkType": "Hammersmith & City",
       "distanceMeters": 791,
@@ -2801,6 +2848,7 @@
       "to": "Baker Street"
     },
     {
+      "direction": "Hammersmith",
       "from": "Baker Street",
       "linkType": "Hammersmith & City",
       "distanceMeters": 804,
@@ -2808,6 +2856,7 @@
       "to": "Edgware Road"
     },
     {
+      "direction": "Hammersmith",
       "from": "Bow Road",
       "linkType": "Hammersmith & City",
       "distanceMeters": 618,
@@ -2815,6 +2864,7 @@
       "to": "Mile End"
     },
     {
+      "direction": "Hammersmith",
       "from": "Euston Square",
       "linkType": "Hammersmith & City",
       "distanceMeters": 638,
@@ -2822,6 +2872,7 @@
       "to": "Great Portland Street"
     },
     {
+      "direction": "Hammersmith",
       "from": "Whitechapel",
       "linkType": "Hammersmith & City",
       "distanceMeters": 855,
@@ -2829,6 +2880,7 @@
       "to": "Aldgate East"
     },
     {
+      "direction": "Barking",
       "from": "Paddington",
       "linkType": "Hammersmith & City",
       "distanceMeters": 858,
@@ -2836,6 +2888,7 @@
       "to": "Edgware Road"
     },
     {
+      "direction": "Barking",
       "from": "Stepney Green",
       "linkType": "Hammersmith & City",
       "distanceMeters": 1039,
@@ -2843,6 +2896,7 @@
       "to": "Mile End"
     },
     {
+      "direction": "Barking",
       "from": "King's Cross St. Pancras",
       "linkType": "Hammersmith & City",
       "distanceMeters": 1846,
@@ -2850,6 +2904,7 @@
       "to": "Farringdon"
     },
     {
+      "direction": "Barking",
       "from": "East Ham",
       "linkType": "Hammersmith & City",
       "distanceMeters": 2298,
@@ -2857,6 +2912,7 @@
       "to": "Barking"
     },
     {
+      "direction": "Barking",
       "from": "Moorgate",
       "linkType": "Hammersmith & City",
       "distanceMeters": 507,
@@ -2864,6 +2920,7 @@
       "to": "Liverpool Street"
     },
     {
+      "direction": "Barking",
       "from": "Farringdon",
       "linkType": "Hammersmith & City",
       "distanceMeters": 527,
@@ -2871,6 +2928,7 @@
       "to": "Barbican"
     },
     {
+      "direction": "Barking",
       "from": "Mile End",
       "linkType": "Hammersmith & City",
       "distanceMeters": 602,
@@ -2878,6 +2936,7 @@
       "to": "Bow Road"
     },
     {
+      "direction": "Barking",
       "from": "Latimer Road",
       "linkType": "Hammersmith & City",
       "distanceMeters": 661,
@@ -2885,6 +2944,23 @@
       "to": "Ladbroke Grove"
     },
     {
+      "direction": "Hammersmith",
+      "from": "Latimer Road",
+      "linkType": "Hammersmith & City",
+      "distanceMeters": 632,
+      "durationSeconds": 60,
+      "to": "Wood Lane"
+    },
+    {
+      "direction": "Hammersmith",
+      "from": "Wood Lane",
+      "linkType": "Hammersmith & City",
+      "distanceMeters": 489,
+      "durationSeconds": 60,
+      "to": "Shepherd's Bush Market"
+    },
+    {
+      "direction": "Barking",
       "from": "Liverpool Street",
       "linkType": "Hammersmith & City",
       "distanceMeters": 881,
@@ -2892,6 +2968,7 @@
       "to": "Aldgate East"
     },
     {
+      "direction": "Barking",
       "from": "Euston Square",
       "linkType": "Hammersmith & City",
       "distanceMeters": 919,
@@ -2899,6 +2976,7 @@
       "to": "King's Cross St. Pancras"
     },
     {
+      "direction": "Hammersmith",
       "from": "Great Portland Street",
       "linkType": "Hammersmith & City",
       "distanceMeters": 905,
@@ -2906,6 +2984,7 @@
       "to": "Baker Street"
     },
     {
+      "direction": "Barking",
       "from": "Royal Oak",
       "linkType": "Hammersmith & City",
       "distanceMeters": 682,
@@ -2913,6 +2992,7 @@
       "to": "Paddington"
     },
     {
+      "direction": "Barking",
       "from": "Plaistow",
       "linkType": "Hammersmith & City",
       "distanceMeters": 1265,
@@ -2920,6 +3000,7 @@
       "to": "Upton Park"
     },
     {
+      "direction": "Hammersmith",
       "from": "Shepherd's Bush Market",
       "linkType": "Hammersmith & City",
       "distanceMeters": 474,
@@ -2927,6 +3008,7 @@
       "to": "Goldhawk Road"
     },
     {
+      "direction": "Hammersmith",
       "from": "Aldgate East",
       "linkType": "Hammersmith & City",
       "distanceMeters": 880,
@@ -2934,6 +3016,7 @@
       "to": "Liverpool Street"
     },
     {
+      "direction": "Hammersmith",
       "from": "Ladbroke Grove",
       "linkType": "Hammersmith & City",
       "distanceMeters": 674,
@@ -2941,6 +3024,7 @@
       "to": "Latimer Road"
     },
     {
+      "direction": "Hammersmith",
       "from": "West Ham",
       "linkType": "Hammersmith & City",
       "distanceMeters": 1288,
