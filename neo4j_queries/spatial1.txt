@@ -1,7 +1,7 @@
 // create a new point layer
 call spatial.addPointLayer("tube-stations")
 // Add all the station nodes to the layer
-match (n:Station) with n
+match (n:Station) where exists(n.latitude) and exists(n.longitude) with n
 call spatial.addNode("tube-stations", n)
 yield node
 return node
