@@ -73,7 +73,9 @@ stations = collections.OrderedDict(sorted(tube.stations().items()))
 for station, data in stations.items():
     encoded_station = encode_name(station)
     # station
-    commands.append("CREATE (%s:Station {name:%s, latitude: %f, longitude: %f, zones: %s})" % (encoded_station, json.dumps(station), data['lat'], data['lng'], json.dumps(data['zones'])))
+    
+    
+    commands.append(("CREATE (%s:Station {name:%s" % (encoded_station, json.dumps(station))) + (", latitude: %f, longitude: %f" % (data['lat'], data['lng']) if 'lat' in data and 'lng' in data else "") + (", zones: %s" % (json.dumps(data['zones'])) if 'zones' in data else "") + "})")
     for line, directions in data['lines'].items():
         stop_name = encoded_station + "_" + encode_name(line)
         # stop on a line
