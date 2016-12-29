@@ -59,6 +59,7 @@ tube = Tube()
 stations = collections.defaultdict(set)
 
 commands = []
+commands.append("match (n) detach delete n")
 
 with open('./tube-data2.json') as data_file:
     data = json.load(data_file)
@@ -105,9 +106,15 @@ for (origin, to, line, datalink) in tube.links():
         else:
             commands.append("MATCH (a:Stop), (b:Stop) WHERE a.line = %s AND a.station = %s AND b.line = %s AND b.station = %s CREATE (a)-[:ROUTE {time: %d}]->(b)" % (json.dumps(line), json.dumps(origin), json.dumps(line), json.dumps(to), data['durationSeconds']))
 
+# create a new point layer
+commands.append('call spatial.addPointLayer("tube-stations")')
+# Add all the station nodes to the layer
+commands.append('match (n:Station) where exists(n.latitude) and exists(n.longitude) with n call spatial.addNode("tube-stations", n) yield node return node')
+# find tube stations within 1km of E2 8DD (near Kingsland Road)
+commands.append("CALL spatial.withinDistance('tube-stations',{longitude:-0.0793786,latitude:51.528012},1) yield node return node")
+
 graph = Graph("http://neo4j:passwd@localhost:7474/db/data/")
 
 for q in commands:
     graph.run(q)
-
 
