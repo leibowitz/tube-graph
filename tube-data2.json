@@ -12194,9 +12194,9 @@
       "description": "Heathrow T4 Station, London Underground Ltd., Hthrw Airport complex, Trmnl 4, Hounslow, Middx"
     },
     {
-      "lat": 51.458553104092005,
+      "lat": 51.4725991,
       "type": "tube",
-      "lng": -0.4460587669779373,
+      "lng": -0.4871636,
       "name": "Heathrow Terminal 5",
       "zones": [6],
       "description": "Heathrow T5 Station, London Underground Ltd., Hthrw Airport complex, Trmnl 5, Hounslow, Middx"
