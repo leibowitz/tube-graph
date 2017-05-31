@@ -1,0 +1,119 @@
+Romford;51.574829;0.183237;Overground;6
+Emerson Park;51.568642;0.220113;Overground;6
+Upminster;51.559018;0.25088;Overground;6
+
+Gospel Oak;51.555335;-0.15077;Overground;2
+Upper Holloway;51.563631;-0.129513;Overground;2
+Crouch Hill;51.571302;-0.117149;Overground;3
+Harringay Green Lanes;51.577182;-0.098144;Overground;3
+South Tottenham;51.580372,-0.072103;Overground;3
+Blackhorse Road;51.586605;-0.041236;Overground;3
+Walthamstow Queens Road;51.581503;-0.023846;Overground;3
+Leyton Midland Road;51.569725;-0.008051;Overground;3
+Leytonstone High Road;51.563554;0.008416;Overground;3
+Wanstead Park;51.551693;0.026213;Overground;3
+Woodgrange Park;51.549264;0.044423;Overground;3,4
+Barking;51.539495;0.080903;Overground;4
+
+South Hampstead;;;Overground;2
+Kilburn High Road;;;Overground;2
+Kensal Green;;;Overground;2
+Willesden Junction;;;Overground;2,3
+Harlesden;;;Overground;3
+Stonebridge Park;;;Overground;3
+Wembley Central;;;Overground;4
+North Wembley;;;Overground;4
+South Kenton;;;Overground;4
+Kenton;;;Overground;4
+Harrow & Wealdstone;;;Overground;5
+Headstone Lane;;;Overground;5
+Hatch End;;;Overground;6
+Carpenders Park;;;Overground;7
+Bushey;;;Overground;8
+Watford High Street;;;Overground;8
+Watford Junction;;;Overground;W
+
+Stratford;;;Overground;2,3
+Hackney Wick;;;Overground;2
+Homerton;;;Overground;2
+Hackney Central;;;Overground;2
+Dalston Kingsland;;;Overground;2
+Canonbury;;;Overground;2
+Highbury & Islington;;;Overground;2
+Caledonian Road & Barnsbury;;;Overground;2
+Camden Road;;;Overground;2
+Kentish Town West;;;Overground;2
+Hampstead Heath;;;Overground;2
+Finchley Road & Frognal Rail;;;Overground;2
+West Hampstead;;;Overground;2
+Brondesbury;;;Overground;2
+Brondesbury Park;;;Overground;2
+Kensal Rise;;;Overground;2
+Kensington (Olympia);;;Overground;2
+West Brompton;;;Overground;2
+Imperial Wharf;;;Overground;2
+Clapham Junction;;;Overground;2
+
+Acton Central;;;Overground;3
+South Acton;;;Overground;3
+Gunnersbury;;;Overground;3
+Kew Gardens;;;Overground;3,4
+Richmond;;;Overground;4
+
+Liverpool Street;;;Overground;1
+Bethnal Green;;;Overground;2
+Cambridge Heath;;;Overground;2
+London Fields;;;Overground;2
+Hackney Downs;;;Overground;2
+Rectory Road;;;Overground;2
+Stoke Newington;;;Overground;2
+Stamford Hill;;;Overground;3
+Seven Sisters;;;Overground;3
+Bruce Grove;;;Overground;3
+White Hart Lane;;;Overground;3
+Silver Street;;;Overground;4
+Edmonton Green;;;Overground;4
+Bush Hill Park;;;Overground;5
+Enfield Town;;;Overground;5
+
+Southbury;;;Overground;5
+Turkey Street;;;Overground;6
+Theobalds Grove;;;Overground;7
+Cheshunt;;;Overground;8
+
+Clapton;;;Overground;2,3
+St. James Street;;;Overground;3
+Walthamstow Central;;;Overground;3
+Wood Street;;;Overground;4
+Highams Park;;;Overground;4
+Chingford;;;Overground;5
+
+Dalston Junction;;;Overground;2
+Haggerston;;;Overground;2
+Hoxton;;;Overground;1,2
+Shoreditch High Street;;;Overground;1
+Whitechapel;;;Overground;2
+Shadwell;;;Overground;2
+Wapping;;;Overground;2
+Rotherhithe;;;Overground;2
+Canada Water;;;Overground;2
+Surrey Quays;;;Overground;2
+New Cross;;;Overground;2
+
+New Cross Gate;;;Overground;2
+Brockley;;;Overground;2
+Honor Oak Park;;;Overground;3
+Forest Hill;;;Overground;3
+Sydenham;;;Overground;3
+Crystal Palace;;;Overground;3,4
+
+Penge West;;;Overground;4
+Anerley;;;Overground;4
+Norwood Junction;;;Overground;4
+West Croydon;;;Overground;5
+
+Queens Road Peckham;;;Overground;2
+Peckham Rye;;;Overground;2
+Denmark Hill;;;Overground;2
+Clapham High Street;;;Overground;2
+Wandsworth Road;;;Overground;2
