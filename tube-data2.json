@@ -11435,7 +11435,7 @@
     "from": "Elmers End",
     "distanceMeters": 958,
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Arena",
     "direction": "Wimbledon"
   },
@@ -11443,7 +11443,7 @@
     "from": "Arena",
     "distanceMeters": 723,
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Woodside",
     "direction": "Wimbledon"
   },
@@ -11451,7 +11451,7 @@
     "from": "Woodside",
     "distanceMeters": 406,
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Blackhorse Lane",
     "direction": "Wimbledon"
   },
@@ -11459,7 +11459,7 @@
     "from": "Blackhorse Lane",
     "distanceMeters": 612,
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Addiscombe",
     "direction": "Wimbledon"
   },
@@ -11467,7 +11467,7 @@
     "from": "Addiscombe",
     "distanceMeters": 828,
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Sandilands",
     "direction": "Wimbledon"
   },
@@ -11475,7 +11475,7 @@
     "from": "Sandilands",
     "distanceMeters": 512,
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Lebanon Road",
     "direction": "Wimbledon"
   },
@@ -11483,7 +11483,7 @@
     "from": "Lebanon Road",
     "distanceMeters": 545,
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "East Croydon",
     "direction": "Wimbledon"
   },
@@ -11491,7 +11491,7 @@
     "from": "East Croydon",
     "distanceMeters": 457,
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "George Street",
     "direction": "Wimbledon"
   },
@@ -11499,7 +11499,7 @@
     "from": "George Street",
     "distanceMeters": 392,
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Church Street",
     "direction": "Wimbledon"
   },
@@ -11507,7 +11507,7 @@
     "from": "Church Street",
     "distanceMeters": 846,
     "durationSeconds": 180,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Wandle Park",
     "direction": "Wimbledon"
   },
@@ -11515,7 +11515,7 @@
     "from": "Wandle Park",
     "distanceMeters": 499,
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Waddon Marsh",
     "direction": "Wimbledon"
   },
@@ -11523,7 +11523,7 @@
     "from": "Waddon Marsh",
     "distanceMeters": 721,
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Ampere Way",
     "direction": "Wimbledon"
   },
@@ -11531,7 +11531,7 @@
     "from": "Ampere Way",
     "distanceMeters": 529,
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Therapia Lane",
     "direction": "Wimbledon"
   },
@@ -11539,7 +11539,7 @@
     "from": "Therapia Lane",
     "distanceMeters": 1058,
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Beddington Lane",
     "direction": "Wimbledon"
   },
@@ -11547,7 +11547,7 @@
     "from": "Beddington Lane",
     "distanceMeters": 1073,
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Mitcham Junction",
     "direction": "Wimbledon"
   },
@@ -11555,7 +11555,7 @@
     "from": "Mitcham Junction",
     "distanceMeters": 1117,
     "durationSeconds": 180,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Mitcham",
     "direction": "Wimbledon"
   },
@@ -11563,7 +11563,7 @@
     "from": "Mitcham",
     "distanceMeters": 656,
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Belgrave Walk",
     "direction": "Wimbledon"
   },
@@ -11571,7 +11571,7 @@
     "from": "Belgrave Walk",
     "distanceMeters": 383,
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Phipps Bridge",
     "direction": "Wimbledon"
   },
@@ -11579,7 +11579,7 @@
     "from": "Phipps Bridge",
     "distanceMeters": 954,
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Morden Road",
     "direction": "Wimbledon"
   },
@@ -11587,7 +11587,7 @@
     "from": "Morden Road",
     "distanceMeters": 805,
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Merton Park",
     "direction": "Wimbledon"
   },
@@ -11595,7 +11595,7 @@
     "from": "Merton Park",
     "distanceMeters": 623,
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Dundonald Road",
     "direction": "Wimbledon"
   },
@@ -11603,13 +11603,13 @@
     "from": "Dundonald Road",
     "distanceMeters": 473,
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Wimbledon",
     "direction": "Wimbledon"
   },
 
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "distanceMeters": 385,
     "from": "New Addington",
     "durationSeconds": 60,
@@ -11617,7 +11617,7 @@
     "to": "King Henry's Drive"
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "distanceMeters": 678,
     "from": "King Henry's Drive",
     "durationSeconds": 120,
@@ -11625,7 +11625,7 @@
     "to": "Fieldway"
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "distanceMeters": 873,
     "from": "Fieldway",
     "durationSeconds": 120,
@@ -11633,7 +11633,7 @@
     "to": "Addington Village"
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "distanceMeters": 831,
     "from": "Addington Village",
     "durationSeconds": 120,
@@ -11641,7 +11641,7 @@
     "to": "Gravel Hill"
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "distanceMeters": 1398,
     "from": "Gravel Hill",
     "durationSeconds": 120,
@@ -11649,7 +11649,7 @@
     "to": "Coombe Lane"
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "distanceMeters": 1586,
     "from": "Coombe Lane",
     "durationSeconds": 180,
@@ -11657,7 +11657,7 @@
     "to": "Lloyd Park"
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "distanceMeters": 1599,
     "from": "Lloyd Park",
     "durationSeconds": 120,
@@ -11671,7 +11671,7 @@
     "direction": "Church Street",
     "from": "Beckenham Junction",
     "distanceMeters": 1233,
-    "linkType": "tram"
+    "linkType": "Tram"
   },
   {
     "durationSeconds": 120,
@@ -11679,7 +11679,7 @@
     "direction": "Church Street",
     "from": "Beckenham Road",
     "distanceMeters": 553,
-    "linkType": "tram"
+    "linkType": "Tram"
   },
   {
     "durationSeconds": 120,
@@ -11687,7 +11687,7 @@
     "direction": "Church Street",
     "from": "Avenue Road",
     "distanceMeters": 569,
-    "linkType": "tram"
+    "linkType": "Tram"
   },
   {
     "durationSeconds": 180,
@@ -11695,7 +11695,7 @@
     "direction": "Church Street",
     "from": "Birkbeck",
     "distanceMeters": 756,
-    "linkType": "tram"
+    "linkType": "Tram"
   },
   {
     "durationSeconds": 120,
@@ -11703,7 +11703,7 @@
     "direction": "Church Street",
     "from": "Harrington Road",
     "distanceMeters": 1121,
-    "linkType": "tram"
+    "linkType": "Tram"
   },
   {
     "durationSeconds": 60,
@@ -11711,7 +11711,7 @@
     "direction": "Church Street",
     "from": "Arena",
     "distanceMeters": 723,
-    "linkType": "tram"
+    "linkType": "Tram"
   },
   {
     "durationSeconds": 60,
@@ -11719,7 +11719,7 @@
     "direction": "Church Street",
     "from": "Woodside",
     "distanceMeters": 406,
-    "linkType": "tram"
+    "linkType": "Tram"
   },
   {
     "durationSeconds": 120,
@@ -11727,7 +11727,7 @@
     "direction": "Church Street",
     "from": "Blackhorse Lane",
     "distanceMeters": 612,
-    "linkType": "tram"
+    "linkType": "Tram"
   },
   {
     "durationSeconds": 120,
@@ -11735,7 +11735,7 @@
     "direction": "Church Street",
     "from": "Addiscombe",
     "distanceMeters": 828,
-    "linkType": "tram"
+    "linkType": "Tram"
   },
   {
     "durationSeconds": 120,
@@ -11743,7 +11743,7 @@
     "direction": "Church Street",
     "from": "Sandilands",
     "distanceMeters": 512,
-    "linkType": "tram"
+    "linkType": "Tram"
   },
   {
     "durationSeconds": 120,
@@ -11751,7 +11751,7 @@
     "direction": "Church Street",
     "from": "Lebanon Road",
     "distanceMeters": 545,
-    "linkType": "tram"
+    "linkType": "Tram"
   },
   {
     "durationSeconds": 120,
@@ -11759,7 +11759,7 @@
     "direction": "Church Street",
     "from": "East Croydon",
     "distanceMeters": 457,
-    "linkType": "tram"
+    "linkType": "Tram"
   },
   {
     "durationSeconds": 120,
@@ -11767,12 +11767,12 @@
     "direction": "Church Street",
     "from": "George Street",
     "distanceMeters": 392,
-    "linkType": "tram"
+    "linkType": "Tram"
   },
 
   {
     "direction": "Church Street",
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Arena",
     "distanceMeters": 958,
     "durationSeconds": 120,
@@ -11784,7 +11784,7 @@
     "durationSeconds": 120,
     "from": "Church Street",
     "distanceMeters": 300,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "Elmers End"
   },
   {
@@ -11792,7 +11792,7 @@
     "durationSeconds": 120,
     "from": "Centrale",
     "distanceMeters": 403,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "Elmers End"
   },
   {
@@ -11800,7 +11800,7 @@
     "durationSeconds": 120,
     "from": "West Croydon",
     "distanceMeters": 653,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "Elmers End"
   },
   {
@@ -11808,7 +11808,7 @@
     "durationSeconds": 120,
     "from": "Wellesley Road",
     "distanceMeters": 437,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "Elmers End"
   },
   {
@@ -11816,7 +11816,7 @@
     "durationSeconds": 120,
     "from": "East Croydon",
     "distanceMeters": 545,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "Elmers End"
   },
   {
@@ -11824,7 +11824,7 @@
     "durationSeconds": 60,
     "from": "Lebanon Road",
     "distanceMeters": 512,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "Elmers End"
   },
   {
@@ -11832,7 +11832,7 @@
     "durationSeconds": 120,
     "from": "Sandilands",
     "distanceMeters": 828,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "Elmers End"
   },
   {
@@ -11840,7 +11840,7 @@
     "durationSeconds": 120,
     "from": "Addiscombe",
     "distanceMeters": 612,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "Elmers End"
   },
   {
@@ -11848,7 +11848,7 @@
     "durationSeconds": 60,
     "from": "Blackhorse Lane",
     "distanceMeters": 406,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "Elmers End"
   },
   {
@@ -11856,7 +11856,7 @@
     "durationSeconds": 120,
     "from": "Woodside",
     "distanceMeters": 723,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "Elmers End"
   },
   {
@@ -11864,13 +11864,13 @@
     "durationSeconds": 240,
     "from": "Arena",
     "distanceMeters": 958,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "Elmers End"
   },
 
   {
     "distanceMeters": 300,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "Church Street",
     "direction": "Beckenham Junction",
     "to": "Centrale",
@@ -11878,7 +11878,7 @@
   },
   {
     "distanceMeters": 403,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "Centrale",
     "direction": "Beckenham Junction",
     "to": "West Croydon",
@@ -11886,7 +11886,7 @@
   },
   {
     "distanceMeters": 653,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "West Croydon",
     "direction": "Beckenham Junction",
     "to": "Wellesley Road",
@@ -11894,7 +11894,7 @@
   },
   {
     "distanceMeters": 437,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "Wellesley Road",
     "direction": "Beckenham Junction",
     "to": "East Croydon",
@@ -11902,7 +11902,7 @@
   },
   {
     "distanceMeters": 545,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "East Croydon",
     "direction": "Beckenham Junction",
     "to": "Lebanon Road",
@@ -11910,7 +11910,7 @@
   },
   {
     "distanceMeters": 512,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "Lebanon Road",
     "direction": "Beckenham Junction",
     "to": "Sandilands",
@@ -11918,7 +11918,7 @@
   },
   {
     "distanceMeters": 828,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "Sandilands",
     "direction": "Beckenham Junction",
     "to": "Addiscombe",
@@ -11926,7 +11926,7 @@
   },
   {
     "distanceMeters": 612,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "Addiscombe",
     "direction": "Beckenham Junction",
     "to": "Blackhorse Lane",
@@ -11934,7 +11934,7 @@
   },
   {
     "distanceMeters": 406,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "Blackhorse Lane",
     "direction": "Beckenham Junction",
     "to": "Woodside",
@@ -11942,7 +11942,7 @@
   },
   {
     "distanceMeters": 723,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "Woodside",
     "direction": "Beckenham Junction",
     "to": "Arena",
@@ -11950,7 +11950,7 @@
   },
   {
     "distanceMeters": 1121,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "Arena",
     "direction": "Beckenham Junction",
     "to": "Harrington Road",
@@ -11958,7 +11958,7 @@
   },
   {
     "distanceMeters": 756,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "Harrington Road",
     "direction": "Beckenham Junction",
     "to": "Birkbeck",
@@ -11966,7 +11966,7 @@
   },
   {
     "distanceMeters": 569,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "Birkbeck",
     "direction": "Beckenham Junction",
     "to": "Avenue Road",
@@ -11974,7 +11974,7 @@
   },
   {
     "distanceMeters": 553,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "Avenue Road",
     "direction": "Beckenham Junction",
     "to": "Beckenham Road",
@@ -11982,7 +11982,7 @@
   },
   {
     "distanceMeters": 1233,
-    "linkType": "tram",
+    "linkType": "Tram",
     "from": "Beckenham Road",
     "direction": "Beckenham Junction",
     "to": "Beckenham Junction",
@@ -11993,7 +11993,7 @@
     "to": "Dundonald Road",
     "from": "Wimbledon",
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 473
   },
@@ -12001,7 +12001,7 @@
     "to": "Merton Park",
     "from": "Dundonald Road",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 623
   },
@@ -12009,7 +12009,7 @@
     "to": "Morden Road",
     "from": "Merton Park",
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 805
   },
@@ -12017,7 +12017,7 @@
     "to": "Phipps Bridge",
     "from": "Morden Road",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 954
   },
@@ -12025,7 +12025,7 @@
     "to": "Belgrave Walk",
     "from": "Phipps Bridge",
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 383
   },
@@ -12033,7 +12033,7 @@
     "to": "Mitcham",
     "from": "Belgrave Walk",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 656
   },
@@ -12041,7 +12041,7 @@
     "to": "Mitcham Junction",
     "from": "Mitcham",
     "durationSeconds": 180,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 1117
   },
@@ -12049,7 +12049,7 @@
     "to": "Beddington Lane",
     "from": "Mitcham Junction",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 1073
   },
@@ -12057,7 +12057,7 @@
     "to": "Therapia Lane",
     "from": "Beddington Lane",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 1058
   },
@@ -12065,7 +12065,7 @@
     "to": "Ampere Way",
     "from": "Therapia Lane",
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 529
   },
@@ -12073,7 +12073,7 @@
     "to": "Waddon Marsh",
     "from": "Ampere Way",
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 721
   },
@@ -12081,7 +12081,7 @@
     "to": "Wandle Park",
     "from": "Waddon Marsh",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 499
   },
@@ -12089,7 +12089,7 @@
     "to": "Reeves Corner",
     "from": "Wandle Park",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 650
   },
@@ -12097,7 +12097,7 @@
     "to": "Centrale",
     "from": "Reeves Corner",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 300
   },
@@ -12105,7 +12105,7 @@
     "to": "West Croydon",
     "from": "Centrale",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 390
   },
@@ -12113,7 +12113,7 @@
     "to": "Wellesley Road",
     "from": "West Croydon",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 653
   },
@@ -12121,7 +12121,7 @@
     "to": "East Croydon",
     "from": "Wellesley Road",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 437
   },
@@ -12129,7 +12129,7 @@
     "to": "Lebanon Road",
     "from": "East Croydon",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 545
   },
@@ -12137,7 +12137,7 @@
     "to": "Sandilands",
     "from": "Lebanon Road",
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 512
   },
@@ -12145,7 +12145,7 @@
     "to": "Lloyd Park",
     "from": "Sandilands",
     "durationSeconds": 180,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 1599
   },
@@ -12153,7 +12153,7 @@
     "to": "Coombe Lane",
     "from": "Lloyd Park",
     "durationSeconds": 180,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 1586
   },
@@ -12161,7 +12161,7 @@
     "to": "Gravel Hill",
     "from": "Coombe Lane",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 1398
   },
@@ -12169,7 +12169,7 @@
     "to": "Addington Village",
     "from": "Gravel Hill",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 831
   },
@@ -12177,7 +12177,7 @@
     "to": "Fieldway",
     "from": "Addington Village",
     "durationSeconds": 120,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 873
   },
@@ -12185,7 +12185,7 @@
     "to": "King Henry's Drive",
     "from": "Fieldway",
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 678
   },
@@ -12193,13 +12193,13 @@
     "to": "New Addington",
     "from": "King Henry's Drive",
     "durationSeconds": 60,
-    "linkType": "tram",
+    "linkType": "Tram",
     "direction": "New Addington",
     "distanceMeters": 385
   },
 
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Dundonald Road",
     "direction": "Elmers End",
     "from": "Wimbledon",
@@ -12207,7 +12207,7 @@
     "distanceMeters": 473
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Merton Park",
     "direction": "Elmers End",
     "from": "Dundonald Road",
@@ -12215,7 +12215,7 @@
     "distanceMeters": 623
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Morden Road",
     "direction": "Elmers End",
     "from": "Merton Park",
@@ -12223,7 +12223,7 @@
     "distanceMeters": 805
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Phipps Bridge",
     "direction": "Elmers End",
     "from": "Morden Road",
@@ -12231,7 +12231,7 @@
     "distanceMeters": 954
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Belgrave Walk",
     "direction": "Elmers End",
     "from": "Phipps Bridge",
@@ -12239,7 +12239,7 @@
     "distanceMeters": 383
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Mitcham",
     "direction": "Elmers End",
     "from": "Belgrave Walk",
@@ -12247,7 +12247,7 @@
     "distanceMeters": 656
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Mitcham Junction",
     "direction": "Elmers End",
     "from": "Mitcham",
@@ -12255,7 +12255,7 @@
     "distanceMeters": 1117
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Beddington Lane",
     "direction": "Elmers End",
     "from": "Mitcham Junction",
@@ -12263,7 +12263,7 @@
     "distanceMeters": 1073
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Therapia Lane",
     "direction": "Elmers End",
     "from": "Beddington Lane",
@@ -12271,7 +12271,7 @@
     "distanceMeters": 1058
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Ampere Way",
     "direction": "Elmers End",
     "from": "Therapia Lane",
@@ -12279,7 +12279,7 @@
     "distanceMeters": 529
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Waddon Marsh",
     "direction": "Elmers End",
     "from": "Ampere Way",
@@ -12287,7 +12287,7 @@
     "distanceMeters": 721
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Wandle Park",
     "direction": "Elmers End",
     "from": "Waddon Marsh",
@@ -12295,7 +12295,7 @@
     "distanceMeters": 499
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Reeves Corner",
     "direction": "Elmers End",
     "from": "Wandle Park",
@@ -12303,7 +12303,7 @@
     "distanceMeters": 650
   },
   {
-    "linkType": "tram",
+    "linkType": "Tram",
     "to": "Centrale",
     "direction": "Elmers End",
     "from": "Reeves Corner",
