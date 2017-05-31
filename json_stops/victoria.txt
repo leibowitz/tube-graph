@@ -1,0 +1,120 @@
+[{
+  "to": "Stockwell",
+  "from": "Vauxhall"
+},
+{
+  "to": "Victoria",
+  "from": "Pimlico"
+},
+{
+  "to": "Oxford Circus",
+  "from": "Warren Street"
+},
+{
+  "to": "Green Park",
+  "from": "Oxford Circus"
+},
+{
+  "to": "Vauxhall",
+  "from": "Pimlico"
+},
+{
+  "to": "Seven Sisters",
+  "from": "Finsbury Park"
+},
+{
+  "to": "Blackhorse Road",
+  "from": "Tottenham Hale"
+},
+{
+  "to": "Vauxhall",
+  "from": "Stockwell"
+},
+{
+  "to": "Finsbury Park",
+  "from": "Highbury & Islington"
+},
+{
+  "to": "Oxford Circus",
+  "from": "Green Park"
+},
+{
+  "to": "Green Park",
+  "from": "Victoria"
+},
+{
+  "to": "Walthamstow Central",
+  "from": "Blackhorse Road"
+},
+{
+  "to": "Brixton",
+  "from": "Stockwell"
+},
+{
+  "to": "King's Cross St. Pancras",
+  "from": "Euston"
+},
+{
+  "to": "Tottenham Hale",
+  "from": "Blackhorse Road"
+},
+{
+  "to": "Euston",
+  "from": "Warren Street"
+},
+{
+  "to": "Pimlico",
+  "from": "Vauxhall"
+},
+{
+  "to": "Stockwell",
+  "from": "Brixton"
+},
+{
+  "to": "King's Cross St. Pancras",
+  "from": "Highbury & Islington"
+},
+{
+  "to": "Euston",
+  "from": "King's Cross St. Pancras"
+},
+{
+  "to": "Victoria",
+  "from": "Green Park"
+},
+{
+  "to": "Tottenham Hale",
+  "from": "Seven Sisters"
+},
+{
+  "to": "Highbury & Islington",
+  "from": "Finsbury Park"
+},
+{
+  "to": "Blackhorse Road",
+  "from": "Walthamstow Central"
+},
+{
+  "to": "Warren Street",
+  "from": "Euston"
+},
+{
+  "to": "Seven Sisters",
+  "from": "Tottenham Hale"
+},
+{
+  "to": "Finsbury Park",
+  "from": "Seven Sisters"
+},
+{
+  "to": "Pimlico",
+  "from": "Victoria"
+},
+{
+  "to": "Warren Street",
+  "from": "Oxford Circus"
+},
+{
+  "to": "Highbury & Islington",
+  "from": "King's Cross St. Pancras"
+}]

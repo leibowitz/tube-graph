@@ -1,0 +1,32 @@
+    {
+      "direction": "Ealing Broadway",
+      "from": "Hainault",
+      "linkType": "Central",
+      "distanceMeters": 1119,
+      "durationSeconds": 120,
+      "to": "Grange Hill"
+    },
+{
+  "to": "Chigwell",
+  "durationSeconds": 120,
+  "distanceMeters": 1282,
+  "linkType": "Central",
+  "from": "Grange Hill",
+  "direction": "Ealing Broadway"
+},
+{
+  "to": "Roding Valley",
+  "durationSeconds": 180,
+  "distanceMeters": 2243,
+  "linkType": "Central",
+  "from": "Chigwell",
+  "direction": "Ealing Broadway"
+},
+{
+  "to": "Woodford",
+  "durationSeconds": 180,
+  "distanceMeters": 1367,
+  "linkType": "Central",
+  "from": "Roding Valley",
+  "direction": "Ealing Broadway"
+},

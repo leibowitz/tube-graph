@@ -1,0 +1,224 @@
+{
+  "to": "Shepherd's Bush",
+  "durationSeconds": 180,
+  "distanceMeters": 1093,
+  "linkType": "Central",
+  "from": "White City",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Bethnal Green",
+  "durationSeconds": 180,
+  "distanceMeters": 2278,
+  "linkType": "Central",
+  "from": "Liverpool Street",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Stratford",
+  "durationSeconds": 240,
+  "distanceMeters": 2836,
+  "linkType": "Central",
+  "from": "Mile End",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Oxford Circus",
+  "durationSeconds": 60,
+  "distanceMeters": 566,
+  "linkType": "Central",
+  "from": "Bond Street",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "North Acton",
+  "durationSeconds": 240,
+  "distanceMeters": 2453,
+  "linkType": "Central",
+  "from": "Hanger Lane",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Leyton",
+  "durationSeconds": 180,
+  "distanceMeters": 2156,
+  "linkType": "Central",
+  "from": "Stratford",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "St. Paul's",
+  "durationSeconds": 120,
+  "distanceMeters": 1030,
+  "linkType": "Central",
+  "from": "Chancery Lane",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Ruislip Gardens",
+  "durationSeconds": 120,
+  "distanceMeters": 2088,
+  "linkType": "Central",
+  "from": "West Ruislip",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Holborn",
+  "durationSeconds": 120,
+  "distanceMeters": 855,
+  "linkType": "Central",
+  "from": "Tottenham Court Road",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Northolt",
+  "durationSeconds": 180,
+  "distanceMeters": 2317,
+  "linkType": "Central",
+  "from": "South Ruislip",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Notting Hill Gate",
+  "durationSeconds": 60,
+  "distanceMeters": 624,
+  "linkType": "Central",
+  "from": "Holland Park",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Liverpool Street",
+  "durationSeconds": 120,
+  "distanceMeters": 696,
+  "linkType": "Central",
+  "from": "Bank",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Greenford",
+  "durationSeconds": 120,
+  "distanceMeters": 1780,
+  "linkType": "Central",
+  "from": "Northolt",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Lancaster Gate",
+  "durationSeconds": 60,
+  "distanceMeters": 899,
+  "linkType": "Central",
+  "from": "Queensway",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "South Ruislip",
+  "durationSeconds": 60,
+  "distanceMeters": 900,
+  "linkType": "Central",
+  "from": "Ruislip Gardens",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Holland Park",
+  "durationSeconds": 120,
+  "distanceMeters": 913,
+  "linkType": "Central",
+  "from": "Shepherd's Bush",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Chancery Lane",
+  "durationSeconds": 60,
+  "distanceMeters": 508,
+  "linkType": "Central",
+  "from": "Holborn",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Perivale",
+  "durationSeconds": 120,
+  "distanceMeters": 1691,
+  "linkType": "Central",
+  "from": "Greenford",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Mile End",
+  "durationSeconds": 120,
+  "distanceMeters": 1668,
+  "linkType": "Central",
+  "from": "Bethnal Green",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "White City",
+  "durationSeconds": 240,
+  "distanceMeters": 2004,
+  "linkType": "Central",
+  "from": "East Acton",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "East Acton",
+  "durationSeconds": 120,
+  "distanceMeters": 1145,
+  "linkType": "Central",
+  "from": "North Acton",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Tottenham Court Road",
+  "durationSeconds": 60,
+  "distanceMeters": 697,
+  "linkType": "Central",
+  "from": "Oxford Circus",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Hanger Lane",
+  "durationSeconds": 180,
+  "distanceMeters": 2164,
+  "linkType": "Central",
+  "from": "Perivale",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Marble Arch",
+  "durationSeconds": 120,
+  "distanceMeters": 1190,
+  "linkType": "Central",
+  "from": "Lancaster Gate",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Bond Street",
+  "durationSeconds": 60,
+  "distanceMeters": 581,
+  "linkType": "Central",
+  "from": "Marble Arch",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Leytonstone",
+  "durationSeconds": 180,
+  "distanceMeters": 1584,
+  "linkType": "Central",
+  "from": "Leyton",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Bank",
+  "durationSeconds": 120,
+  "distanceMeters": 741,
+  "linkType": "Central",
+  "from": "St. Paul's",
+  "direction": "Hainault via Newbury Park"
+}
+{
+  "to": "Queensway",
+  "durationSeconds": 60,
+  "distanceMeters": 710,
+  "linkType": "Central",
+  "from": "Notting Hill Gate",
+  "direction": "Hainault via Newbury Park"
+}

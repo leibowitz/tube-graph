@@ -1,0 +1,243 @@
+    [
+{
+      "direction": "Beckton",
+      "from": "Custom House",
+      "linkType": "DLR",
+      "distanceMeters": 498,
+      "durationSeconds": 120,
+      "to": "Prince Regent"
+    },
+    {
+      "direction": "Beckton",
+      "from": "East India",
+      "linkType": "DLR",
+      "distanceMeters": 962,
+      "durationSeconds": 120,
+      "to": "Canning Town"
+    },
+    {
+      "direction": "Beckton",
+      "from": "Canning Town",
+      "linkType": "DLR",
+      "distanceMeters": 1101,
+      "durationSeconds": 120,
+      "to": "Royal Victoria"
+    },
+    {
+      "direction": "Beckton",
+      "from": "Prince Regent",
+      "linkType": "DLR",
+      "distanceMeters": 963,
+      "durationSeconds": 120,
+      "to": "Royal Albert"
+    },
+    {
+      "direction": "Beckton",
+      "from": "Beckton Park",
+      "linkType": "DLR",
+      "distanceMeters": 550,
+      "durationSeconds": 60,
+      "to": "Cyprus"
+    },
+    {
+      "direction": "Beckton",
+      "from": "Tower Gateway",
+      "linkType": "DLR",
+      "distanceMeters": 1278,
+      "durationSeconds": 180,
+      "to": "Shadwell"
+    },
+    {
+      "direction": "Beckton",
+      "from": "Shadwell",
+      "linkType": "DLR",
+      "distanceMeters": 1112,
+      "durationSeconds": 120,
+      "to": "Limehouse"
+    },
+    {
+      "direction": "Beckton",
+      "from": "Cyprus",
+      "linkType": "DLR",
+      "distanceMeters": 805,
+      "durationSeconds": 120,
+      "to": "Gallions Reach"
+    },
+    {
+      "direction": "Beckton",
+      "from": "Westferry",
+      "linkType": "DLR",
+      "distanceMeters": 700,
+      "durationSeconds": 120,
+      "to": "Poplar"
+    },
+    {
+      "direction": "Beckton",
+      "from": "Royal Albert",
+      "linkType": "DLR",
+      "distanceMeters": 628,
+      "durationSeconds": 120,
+      "to": "Beckton Park"
+    },
+    {
+      "direction": "Beckton",
+      "from": "Limehouse",
+      "linkType": "DLR",
+      "distanceMeters": 1013,
+      "durationSeconds": 120,
+      "to": "Westferry"
+    },
+    {
+      "direction": "Beckton",
+      "from": "Poplar",
+      "linkType": "DLR",
+      "distanceMeters": 738,
+      "durationSeconds": 120,
+      "to": "Blackwall"
+    },
+    {
+      "direction": "Beckton",
+      "from": "Gallions Reach",
+      "linkType": "DLR",
+      "distanceMeters": 1244,
+      "durationSeconds": 180,
+      "to": "Beckton"
+    },
+    {
+      "direction": "Beckton",
+      "from": "Royal Victoria",
+      "linkType": "DLR",
+      "distanceMeters": 560,
+      "durationSeconds": 120,
+      "to": "Custom House"
+    },
+    {
+      "direction": "Beckton",
+      "from": "Blackwall",
+      "linkType": "DLR",
+      "distanceMeters": 430,
+      "durationSeconds": 60,
+      "to": "East India"
+    },
+
+    {
+      "direction": "Tower Gateway",
+      "from": "Beckton",
+      "linkType": "DLR",
+      "distanceMeters": 1244,
+      "durationSeconds": 120,
+      "to": "Gallions Reach"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "Canning Town",
+      "linkType": "DLR",
+      "distanceMeters": 962,
+      "durationSeconds": 120,
+      "to": "East India"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "Cyprus",
+      "linkType": "DLR",
+      "distanceMeters": 550,
+      "durationSeconds": 60,
+      "to": "Beckton Park"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "Shadwell",
+      "linkType": "DLR",
+      "distanceMeters": 1278,
+      "durationSeconds": 180,
+      "to": "Tower Gateway"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "Blackwall",
+      "linkType": "DLR",
+      "distanceMeters": 738,
+      "durationSeconds": 120,
+      "to": "Poplar"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "Limehouse",
+      "linkType": "DLR",
+      "distanceMeters": 1112,
+      "durationSeconds": 120,
+      "to": "Shadwell"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "Royal Albert",
+      "linkType": "DLR",
+      "distanceMeters": 963,
+      "durationSeconds": 120,
+      "to": "Prince Regent"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "Custom House",
+      "linkType": "DLR",
+      "distanceMeters": 560,
+      "durationSeconds": 120,
+      "to": "Royal Victoria"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "Royal Victoria",
+      "linkType": "DLR",
+      "distanceMeters": 1101,
+      "durationSeconds": 120,
+      "to": "Canning Town"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "Westferry",
+      "linkType": "DLR",
+      "distanceMeters": 1013,
+      "durationSeconds": 120,
+      "to": "Limehouse"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "East India",
+      "linkType": "DLR",
+      "distanceMeters": 430,
+      "durationSeconds": 120,
+      "to": "Blackwall"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "Prince Regent",
+      "linkType": "DLR",
+      "distanceMeters": 498,
+      "durationSeconds": 120,
+      "to": "Custom House"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "Gallions Reach",
+      "linkType": "DLR",
+      "distanceMeters": 805,
+      "durationSeconds": 120,
+      "to": "Cyprus"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "Beckton Park",
+      "linkType": "DLR",
+      "distanceMeters": 628,
+      "durationSeconds": 120,
+      "to": "Royal Albert"
+    },
+    {
+      "direction": "Tower Gateway",
+      "from": "Poplar",
+      "linkType": "DLR",
+      "distanceMeters": 700,
+      "durationSeconds": 120,
+      "to": "Westferry"
+    }
+]

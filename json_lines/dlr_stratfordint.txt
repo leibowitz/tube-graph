@@ -1,0 +1,179 @@
+    [
+{
+      "direction": "Stratford International",
+      "from": "London City Airport",
+      "linkType": "DLR",
+      "distanceMeters": 1157,
+      "durationSeconds": 120,
+      "to": "Pontoon Dock"
+    },
+    {
+      "direction": "Stratford International",
+      "from": "Woolwich Arsenal DLR",
+      "linkType": "DLR",
+      "distanceMeters": 3227,
+      "durationSeconds": 240,
+      "to": "King George V."
+    },
+    {
+      "direction": "Stratford International",
+      "from": "Stratford High Street",
+      "linkType": "DLR",
+      "distanceMeters": 0,
+      "durationSeconds": 60,
+      "to": "Stratford"
+    },
+    {
+      "direction": "Stratford International",
+      "from": "West Silvertown DLR",
+      "linkType": "DLR",
+      "distanceMeters": 1709,
+      "durationSeconds": 180,
+      "to": "Canning Town"
+    },
+    {
+      "direction": "Stratford International",
+      "from": "Canning Town",
+      "linkType": "DLR",
+      "distanceMeters": 0,
+      "durationSeconds": 120,
+      "to": "Star Lane"
+    },
+    {
+      "direction": "Stratford International",
+      "from": "West Ham",
+      "linkType": "DLR",
+      "distanceMeters": 474,
+      "durationSeconds": 120,
+      "to": "Abbey Road DLR"
+    },
+    {
+      "direction": "Stratford International",
+      "from": "King George V.",
+      "linkType": "DLR",
+      "distanceMeters": 960,
+      "durationSeconds": 120,
+      "to": "London City Airport"
+    },
+    {
+      "direction": "Stratford International",
+      "from": "Star Lane",
+      "linkType": "DLR",
+      "distanceMeters": 826,
+      "durationSeconds": 60,
+      "to": "West Ham"
+    },
+    {
+      "direction": "Stratford International",
+      "from": "Pontoon Dock",
+      "linkType": "DLR",
+      "distanceMeters": 770,
+      "durationSeconds": 120,
+      "to": "West Silvertown DLR"
+    },
+    {
+      "direction": "Stratford International",
+      "from": "Stratford",
+      "linkType": "DLR",
+      "distanceMeters": 1317,
+      "durationSeconds": 180,
+      "to": "Stratford International DLR"
+    },
+    {
+      "direction": "Stratford International",
+      "from": "Abbey Road DLR",
+      "linkType": "DLR",
+      "distanceMeters": 737,
+      "durationSeconds": 120,
+      "to": "Stratford High Street"
+    },
+
+    {
+      "direction": "Woolwich Arsenal",
+      "from": "Stratford International DLR",
+      "linkType": "DLR",
+      "distanceMeters": 1317,
+      "durationSeconds": 180,
+      "to": "Stratford"
+    },
+    {
+      "direction": "Woolwich Arsenal",
+      "from": "Stratford",
+      "linkType": "DLR",
+      "distanceMeters": 390,
+      "durationSeconds": 120,
+      "to": "Stratford High Street"
+    },
+    {
+      "direction": "Woolwich Arsenal",
+      "from": "Stratford High Street",
+      "linkType": "DLR",
+      "distanceMeters": 723,
+      "durationSeconds": 120,
+      "to": "Abbey Road DLR"
+    },
+    {
+      "direction": "Woolwich Arsenal",
+      "from": "Abbey Road DLR",
+      "linkType": "DLR",
+      "distanceMeters": 475,
+      "durationSeconds": 120,
+      "to": "West Ham"
+    },
+    {
+      "direction": "Woolwich Arsenal",
+      "from": "West Ham",
+      "linkType": "DLR",
+      "distanceMeters": 826,
+      "durationSeconds": 120,
+      "to": "Star Lane"
+    },
+    {
+      "direction": "Woolwich Arsenal",
+      "from": "Star Lane",
+      "linkType": "DLR",
+      "distanceMeters": 0,
+      "durationSeconds": 120,
+      "to": "Canning Town"
+    },
+    {
+      "direction": "Woolwich Arsenal",
+      "from": "Canning Town",
+      "linkType": "DLR",
+      "distanceMeters": 1709,
+      "durationSeconds": 180,
+      "to": "West Silvertown DLR"
+    },
+    {
+      "direction": "Woolwich Arsenal",
+      "from": "West Silvertown DLR",
+      "linkType": "DLR",
+      "distanceMeters": 770,
+      "durationSeconds": 120,
+      "to": "Pontoon Dock"
+    },
+    {
+      "direction": "Woolwich Arsenal",
+      "from": "Pontoon Dock",
+      "linkType": "DLR",
+      "distanceMeters": 1157,
+      "durationSeconds": 120,
+      "to": "London City Airport"
+    },
+    {
+      "direction": "Woolwich Arsenal",
+      "from": "London City Airport",
+      "linkType": "DLR",
+      "distanceMeters": 960,
+      "durationSeconds": 120,
+      "to": "King George V."
+    },
+    {
+      "direction": "Woolwich Arsenal",
+      "from": "King George V.",
+      "linkType": "DLR",
+      "distanceMeters": 3227,
+      "durationSeconds": 240,
+      "to": "Woolwich Arsenal DLR"
+    }
+]

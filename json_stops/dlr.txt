@@ -1,0 +1,380 @@
+[{
+  "to": "Cyprus",
+  "from": "Beckton Park"
+},
+{
+  "to": "Langdon Park",
+  "from": "Devons Road"
+},
+{
+  "to": "Pontoon Dock",
+  "from": "London City Airport"
+},
+{
+  "to": "Star Lane",
+  "from": "West Ham"
+},
+{
+  "to": "West Silvertown DLR",
+  "from": "Canning Town"
+},
+{
+  "to": "Westferry",
+  "from": "Limehouse"
+},
+{
+  "to": "Westferry",
+  "from": "Poplar"
+},
+{
+  "to": "East India",
+  "from": "Canning Town"
+},
+{
+  "to": "Beckton Park",
+  "from": "Cyprus"
+},
+{
+  "to": "Blackwall",
+  "from": "Poplar"
+},
+{
+  "to": "Tower Gateway",
+  "from": "Shadwell"
+},
+{
+  "to": "Heron Quays",
+  "from": "Canary Wharf DLR"
+},
+{
+  "to": "Canary Wharf DLR",
+  "from": "Heron Quays"
+},
+{
+  "to": "Pudding Mill Lane",
+  "from": "Stratford"
+},
+{
+  "to": "South Quay",
+  "from": "Heron Quays"
+},
+{
+  "to": "Poplar",
+  "from": "Blackwall"
+},
+{
+  "to": "Beckton",
+  "from": "Gallions Reach"
+},
+{
+  "to": "King George V.",
+  "from": "Woolwich Arsenal DLR"
+},
+{
+  "to": "Deptford Bridge",
+  "from": "Greenwich"
+},
+{
+  "to": "Poplar",
+  "from": "West India Quay"
+},
+{
+  "to": "Heron Quays",
+  "from": "South Quay"
+},
+{
+  "to": "Stratford",
+  "from": "Stratford High Street"
+},
+{
+  "to": "Custom House",
+  "from": "Royal Victoria"
+},
+{
+  "to": "East India",
+  "from": "Blackwall"
+},
+{
+  "to": "Blackwall",
+  "from": "Pudding Mill Lane"
+},
+{
+  "to": "Canary Wharf DLR",
+  "from": "Westferry"
+},
+{
+  "to": "Shadwell",
+  "from": "Limehouse"
+},
+{
+  "to": "Deptford Bridge",
+  "from": "Elverson Road"
+},
+{
+  "to": "Canning Town",
+  "from": "West Silvertown DLR"
+},
+{
+  "to": "Canning Town",
+  "from": "Star Lane"
+},
+{
+  "to": "London City Airport",
+  "from": "Pontoon Dock"
+},
+{
+  "to": "Prince Regent",
+  "from": "Royal Albert"
+},
+{
+  "to": "Royal Victoria",
+  "from": "Custom House"
+},
+{
+  "to": "Canning Town",
+  "from": "East India"
+},
+{
+  "to": "Star Lane",
+  "from": "Canning Town"
+},
+{
+  "to": "Abbey Road DLR",
+  "from": "West Ham"
+},
+{
+  "to": "Greenwich",
+  "from": "Cutty Sark"
+},
+{
+  "to": "Royal Victoria",
+  "from": "Canning Town"
+},
+{
+  "to": "Royal Albert",
+  "from": "Prince Regent"
+},
+{
+  "to": "Abbey Road DLR",
+  "from": "Stratford High Street"
+},
+{
+  "to": "Canning Town",
+  "from": "Royal Victoria"
+},
+{
+  "to": "London City Airport",
+  "from": "King George V."
+},
+{
+  "to": "Bow Church DLR",
+  "from": "Devons Road"
+},
+{
+  "to": "Devons Road",
+  "from": "Bow Church DLR"
+},
+{
+  "to": "Westferry",
+  "from": "West India Quay"
+},
+{
+  "to": "West Ham",
+  "from": "Star Lane"
+},
+{
+  "to": "Stratford High Street",
+  "from": "Stratford"
+},
+{
+  "to": "West India Quay",
+  "from": "Poplar"
+},
+{
+  "to": "Prince Regent",
+  "from": "Custom House"
+},
+{
+  "to": "Limehouse",
+  "from": "Westferry"
+},
+{
+  "to": "Shadwell",
+  "from": "Tower Gateway"
+},
+{
+  "to": "Poplar",
+  "from": "All Saints"
+},
+{
+  "to": "Stratford",
+  "from": "Pudding Mill Lane"
+},
+{
+  "to": "Limehouse",
+  "from": "Shadwell"
+},
+{
+  "to": "South Quay",
+  "from": "Crossharbour"
+},
+{
+  "to": "West India Quay",
+  "from": "Westferry"
+},
+{
+  "to": "Gallions Reach",
+  "from": "Beckton"
+},
+{
+  "to": "Devons Road",
+  "from": "Langdon Park"
+},
+{
+  "to": "Stratford",
+  "from": "East India"
+},
+{
+  "to": "Pontoon Dock",
+  "from": "West Silvertown DLR"
+},
+{
+  "to": "Langdon Park",
+  "from": "All Saints"
+},
+{
+  "to": "Island Gardens",
+  "from": "Cutty Sark"
+},
+{
+  "to": "West Silvertown DLR",
+  "from": "Pontoon Dock"
+},
+{
+  "to": "Woolwich Arsenal DLR",
+  "from": "King George V."
+},
+{
+  "to": "Bow Church DLR",
+  "from": "Pudding Mill Lane"
+},
+{
+  "to": "Shadwell",
+  "from": "Bank"
+},
+{
+  "to": "Mudchute",
+  "from": "Island Gardens"
+},
+{
+  "to": "Gallions Reach",
+  "from": "Cyprus"
+},
+{
+  "to": "Poplar",
+  "from": "Westferry"
+},
+{
+  "to": "Bank",
+  "from": "Shadwell"
+},
+{
+  "to": "Blackwall",
+  "from": "East India"
+},
+{
+  "to": "Elverson Road",
+  "from": "Deptford Bridge"
+},
+{
+  "to": "Greenwich",
+  "from": "Deptford Bridge"
+},
+{
+  "to": "Crossharbour",
+  "from": "Mudchute"
+},
+{
+  "to": "Canary Wharf DLR",
+  "from": "West India Quay"
+},
+{
+  "to": "Pudding Mill Lane",
+  "from": "Bow Church DLR"
+},
+{
+  "to": "Custom House",
+  "from": "Prince Regent"
+},
+{
+  "to": "Beckton Park",
+  "from": "Royal Albert"
+},
+{
+  "to": "Cutty Sark",
+  "from": "Greenwich"
+},
+{
+  "to": "Crossharbour",
+  "from": "South Quay"
+},
+{
+  "to": "All Saints",
+  "from": "Langdon Park"
+},
+{
+  "to": "Stratford",
+  "from": "Stratford International DLR"
+},
+{
+  "to": "Cyprus",
+  "from": "Gallions Reach"
+},
+{
+  "to": "Stratford International DLR",
+  "from": "Stratford"
+},
+{
+  "to": "Royal Albert",
+  "from": "Beckton Park"
+},
+{
+  "to": "Mudchute",
+  "from": "Crossharbour"
+},
+{
+  "to": "Island Gardens",
+  "from": "Mudchute"
+},
+{
+  "to": "Cutty Sark",
+  "from": "Island Gardens"
+},
+{
+  "to": "Stratford High Street",
+  "from": "Abbey Road DLR"
+},
+{
+  "to": "West Ham",
+  "from": "Abbey Road DLR"
+},
+{
+  "to": "West India Quay",
+  "from": "Canary Wharf DLR"
+},
+{
+  "to": "Elverson Road",
+  "from": "Lewisham"
+},
+{
+  "to": "King George V.",
+  "from": "London City Airport"
+},
+{
+  "to": "Lewisham",
+  "from": "Elverson Road"
+},
+{
+  "to": "All Saints",
+  "from": "Poplar"
+}]

@@ -1,0 +1,192 @@
+[{
+  "to": "Baker Street",
+  "from": "Marylebone"
+},
+{
+  "to": "Queen's Park",
+  "from": "Kensal Green"
+},
+{
+  "to": "Lambeth North",
+  "from": "Waterloo"
+},
+{
+  "to": "Embankment",
+  "from": "Charing Cross"
+},
+{
+  "to": "Queen's Park",
+  "from": "Kilburn Park"
+},
+{
+  "to": "Elephant & Castle",
+  "from": "Lambeth North"
+},
+{
+  "to": "North Wembley",
+  "from": "Wembley Central"
+},
+{
+  "to": "Kilburn Park",
+  "from": "Maida Vale"
+},
+{
+  "to": "Harrow & Wealdstone",
+  "from": "Kenton"
+},
+{
+  "to": "South Kenton",
+  "from": "North Wembley"
+},
+{
+  "to": "Willesden Junction",
+  "from": "Kensal Green"
+},
+{
+  "to": "Waterloo",
+  "from": "Lambeth North"
+},
+{
+  "to": "Warwick Avenue",
+  "from": "Paddington"
+},
+{
+  "to": "Kilburn Park",
+  "from": "Queen's Park"
+},
+{
+  "to": "Marylebone",
+  "from": "Baker Street"
+},
+{
+  "to": "Piccadilly Circus",
+  "from": "Charing Cross"
+},
+{
+  "to": "South Kenton",
+  "from": "Kenton"
+},
+{
+  "to": "Baker Street",
+  "from": "Regent's Park"
+},
+{
+  "to": "Kensal Green",
+  "from": "Queen's Park"
+},
+{
+  "to": "Warwick Avenue",
+  "from": "Maida Vale"
+},
+{
+  "to": "Stonebridge Park",
+  "from": "Harlesden"
+},
+{
+  "to": "Stonebridge Park",
+  "from": "Wembley Central"
+},
+{
+  "to": "Kensal Green",
+  "from": "Willesden Junction"
+},
+{
+  "to": "Maida Vale",
+  "from": "Kilburn Park"
+},
+{
+  "to": "Edgware Road",
+  "from": "Paddington"
+},
+{
+  "to": "Embankment",
+  "from": "Waterloo"
+},
+{
+  "to": "North Wembley",
+  "from": "South Kenton"
+},
+{
+  "to": "Wembley Central",
+  "from": "Stonebridge Park"
+},
+{
+  "to": "Regent's Park",
+  "from": "Oxford Circus"
+},
+{
+  "to": "Wembley Central",
+  "from": "North Wembley"
+},
+{
+  "to": "Kenton",
+  "from": "Harrow & Wealdstone"
+},
+{
+  "to": "Regent's Park",
+  "from": "Baker Street"
+},
+{
+  "to": "Kenton",
+  "from": "South Kenton"
+},
+{
+  "to": "Charing Cross",
+  "from": "Piccadilly Circus"
+},
+{
+  "to": "Piccadilly Circus",
+  "from": "Oxford Circus"
+},
+{
+  "to": "Paddington",
+  "from": "Warwick Avenue"
+},
+{
+  "to": "Maida Vale",
+  "from": "Warwick Avenue"
+},
+{
+  "to": "Harlesden",
+  "from": "Stonebridge Park"
+},
+{
+  "to": "Willesden Junction",
+  "from": "Harlesden"
+},
+{
+  "to": "Paddington",
+  "from": "Edgware Road"
+},
+{
+  "to": "Oxford Circus",
+  "from": "Regent's Park"
+},
+{
+  "to": "Lambeth North",
+  "from": "Elephant & Castle"
+},
+{
+  "to": "Marylebone",
+  "from": "Edgware Road"
+},
+{
+  "to": "Harlesden",
+  "from": "Willesden Junction"
+},
+{
+  "to": "Charing Cross",
+  "from": "Embankment"
+},
+{
+  "to": "Oxford Circus",
+  "from": "Piccadilly Circus"
+},
+{
+  "to": "Edgware Road",
+  "from": "Marylebone"
+},
+{
+  "to": "Waterloo",
+  "from": "Embankment"
+}]

@@ -1,0 +1,32 @@
+    {
+      "direction": "Lewisham",
+      "from": "Bank",
+      "linkType": "DLR",
+      "distanceMeters": 2354,
+      "durationSeconds": 240,
+      "to": "Shadwell"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Shadwell",
+      "linkType": "DLR",
+      "distanceMeters": 1112,
+      "durationSeconds": 120,
+      "to": "Limehouse"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Limehouse",
+      "linkType": "DLR",
+      "distanceMeters": 1013,
+      "durationSeconds": 120,
+      "to": "Westferry"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Westferry",
+      "linkType": "DLR",
+      "distanceMeters": 558,
+      "durationSeconds": 120,
+      "to": "West India Quay"
+    },

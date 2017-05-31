@@ -1,0 +1,421 @@
+
+// Edgware branch, southbound
+    {
+      "direction": "Morden",
+      "from": "Edgware",
+      "linkType": "Northern",
+      "distanceMeters": 1448,
+      "durationSeconds": 150,
+      "to": "Burnt Oak"
+    },
+    {
+      "direction": "Morden",
+      "from": "Burnt Oak",
+      "linkType": "Northern",
+      "distanceMeters": 1283,
+      "durationSeconds": 150,
+      "to": "Colindale"
+    },
+    {
+      "direction": "Morden",
+      "from": "Colindale",
+      "linkType": "Northern",
+      "distanceMeters": 2149,
+      "durationSeconds": 180,
+      "to": "Hendon Central"
+    },
+    {
+      "direction": "Morden",
+      "from": "Hendon Central",
+      "linkType": "Northern",
+      "distanceMeters": 1158,
+      "durationSeconds": 120,
+      "to": "Brent Cross"
+    },
+    {
+      "direction": "Morden",
+      "from": "Brent Cross",
+      "linkType": "Northern",
+      "distanceMeters": 1510,
+      "durationSeconds": 330,
+      "to": "Golders Green"
+    },
+    {
+      "direction": "Morden",
+      "from": "Golders Green",
+      "linkType": "Northern",
+      "distanceMeters": 2337,
+      "durationSeconds": 240,
+      "to": "Hampstead"
+    },
+    {
+      "direction": "Morden",
+      "from": "Hampstead",
+      "linkType": "Northern",
+      "distanceMeters": 1193,
+      "durationSeconds": 120,
+      "to": "Belsize Park"
+    },
+    {
+      "direction": "Morden",
+      "from": "Belsize Park",
+      "linkType": "Northern",
+      "distanceMeters": 1027,
+      "durationSeconds": 120,
+      "to": "Chalk Farm"
+    },
+    {
+      "direction": "Morden",
+      "from": "Chalk Farm",
+      "linkType": "Northern",
+      "distanceMeters": 947,
+      "durationSeconds": 270,
+      "to": "Camden Town"
+    },
+
+// High barnet branch, southbound
+    {
+      "direction": "Morden",
+      "from": "High Barnet",
+      "linkType": "Northern",
+      "distanceMeters": 2513,
+      "durationSeconds": 210,
+      "to": "Totteridge & Whetstone"
+    },
+    {
+      "direction": "Morden",
+      "from": "Totteridge & Whetstone",
+      "linkType": "Northern",
+      "distanceMeters": 1496,
+      "durationSeconds": 150,
+      "to": "Woodside Park"
+    },
+    {
+      "direction": "Morden",
+      "from": "Woodside Park",
+      "linkType": "Northern",
+      "distanceMeters": 951,
+      "durationSeconds": 120,
+      "to": "West Finchley"
+    },
+    {
+      "direction": "Morden",
+      "from": "West Finchley",
+      "linkType": "Northern",
+      "distanceMeters": 1164,
+      "durationSeconds": 270,
+      "to": "Finchley Central"
+    },
+    {
+      "direction": "Morden",
+      "from": "Finchley Central",
+      "linkType": "Northern",
+      "distanceMeters": 2456,
+      "durationSeconds": 246,
+      "to": "East Finchley"
+    },
+    {
+      "direction": "Morden",
+      "from": "East Finchley",
+      "linkType": "Northern",
+      "distanceMeters": 1703,
+      "durationSeconds": 180,
+      "to": "Highgate"
+    },
+    {
+      "direction": "Morden",
+      "from": "Highgate",
+      "linkType": "Northern",
+      "distanceMeters": 1695,
+      "durationSeconds": 180,
+      "to": "Archway"
+    },
+    {
+      "direction": "Morden",
+      "from": "Archway",
+      "linkType": "Northern",
+      "distanceMeters": 915,
+      "durationSeconds": 90,
+      "to": "Tufnell Park"
+    },
+    {
+      "direction": "Morden",
+      "from": "Tufnell Park",
+      "linkType": "Northern",
+      "distanceMeters": 750,
+      "durationSeconds": 120,
+      "to": "Kentish Town"
+    },
+    {
+      "direction": "Morden",
+      "from": "Kentish Town",
+      "linkType": "Northern",
+      "distanceMeters": 1231,
+      "durationSeconds": 330,
+      "to": "Camden Town"
+    },
+
+// Mill Hill East, southbound
+    {
+      "direction": "Morden",
+      "from": "Mill Hill East",
+      "linkType": "Northern",
+      "distanceMeters": 1448,
+      "durationSeconds": 330,
+      "to": "Finchley Central"
+    },
+
+// Charing cross branch, southbound
+    {
+      "direction": "Morden",
+      "from": "Camden Town",
+      "linkType": "Northern",
+      "distanceMeters": 623,
+      "durationSeconds": 150,
+      "to": "Mornington Crescent"
+    },
+    {
+      "direction": "Morden",
+      "from": "Mornington Crescent",
+      "linkType": "Northern",
+      "distanceMeters": 801,
+      "durationSeconds": 120,
+      "to": "Euston"
+    },
+    {
+      "direction": "Morden",
+      "from": "Euston",
+      "linkType": "Northern",
+      "distanceMeters": 603,
+      "durationSeconds": 90,
+      "to": "Warren Street"
+    },
+    {
+      "direction": "Morden",
+      "from": "Warren Street",
+      "linkType": "Northern",
+      "distanceMeters": 456,
+      "durationSeconds": 120,
+      "to": "Goodge Street"
+    },
+    {
+      "direction": "Morden",
+      "from": "Goodge Street",
+      "linkType": "Northern",
+      "distanceMeters": 609,
+      "durationSeconds": 90,
+      "to": "Tottenham Court Road"
+    },
+    {
+      "direction": "Morden",
+      "from": "Tottenham Court Road",
+      "linkType": "Northern",
+      "distanceMeters": 464,
+      "durationSeconds": 60,
+      "to": "Leicester Square"
+    },
+    {
+      "direction": "Morden",
+      "from": "Leicester Square",
+      "linkType": "Northern",
+      "distanceMeters": 450,
+      "durationSeconds": 120,
+      "to": "Charing Cross"
+    },
+    {
+      "direction": "Morden",
+      "from": "Charing Cross",
+      "linkType": "Northern",
+      "distanceMeters": 278,
+      "durationSeconds": 60,
+      "to": "Embankment"
+    },
+    {
+      "direction": "Morden",
+      "from": "Embankment",
+      "linkType": "Northern",
+      "distanceMeters": 788,
+      "durationSeconds": 120,
+      "to": "Waterloo"
+    },
+    {
+      "direction": "Morden",
+      "from": "Waterloo",
+      "linkType": "Northern",
+      "distanceMeters": 1787,
+      "durationSeconds": 450,
+      "to": "Kennington"
+    },
+
+// Bank branch, southbound
+    {
+      "direction": "Morden",
+      "from": "Camden Town",
+      "linkType": "Northern",
+      "distanceMeters": 1698,
+      "durationSeconds": 330,
+      "to": "Euston"
+    },
+    {
+      "direction": "Morden",
+      "from": "Euston",
+      "linkType": "Northern",
+      "distanceMeters": 808,
+      "durationSeconds": 90,
+      "to": "King's Cross St. Pancras"
+    },
+    {
+      "direction": "Morden",
+      "from": "King's Cross St. Pancras",
+      "linkType": "Northern",
+      "distanceMeters": 1113,
+      "durationSeconds": 180,
+      "to": "Angel"
+    },
+    {
+      "direction": "Morden",
+      "from": "Angel",
+      "linkType": "Northern",
+      "distanceMeters": 1587,
+      "durationSeconds": 180,
+      "to": "Old Street"
+    },
+    {
+      "direction": "Morden",
+      "from": "Old Street",
+      "linkType": "Northern",
+      "distanceMeters": 684,
+      "durationSeconds": 90,
+      "to": "Moorgate"
+    },
+    {
+      "direction": "Morden",
+      "from": "Moorgate",
+      "linkType": "Northern",
+      "distanceMeters": 782,
+      "durationSeconds": 120,
+      "to": "Bank"
+    },
+    {
+      "direction": "Morden",
+      "from": "Bank",
+      "linkType": "Northern",
+      "distanceMeters": 767,
+      "durationSeconds": 120,
+      "to": "London Bridge"
+    },
+    {
+      "direction": "Morden",
+      "from": "London Bridge",
+      "linkType": "Northern",
+      "distanceMeters": 644,
+      "durationSeconds": 90,
+      "to": "Borough"
+    },
+    {
+      "direction": "Morden",
+      "from": "Borough",
+      "linkType": "Northern",
+      "distanceMeters": 829,
+      "durationSeconds": 120,
+      "to": "Elephant & Castle"
+    },
+    {
+      "direction": "Morden",
+      "from": "Elephant & Castle",
+      "linkType": "Northern",
+      "distanceMeters": 849,
+      "durationSeconds": 360,
+      "to": "Kennington"
+    },
+
+// Morden, southbound
+    {
+      "direction": "Morden",
+      "from": "Kennington",
+      "linkType": "Northern",
+      "distanceMeters": 868,
+      "durationSeconds": 120,
+      "to": "Oval"
+    },
+    {
+      "direction": "Morden",
+      "from": "Oval",
+      "linkType": "Northern",
+      "distanceMeters": 1335,
+      "durationSeconds": 210,
+      "to": "Stockwell"
+    },
+    {
+      "direction": "Morden",
+      "from": "Stockwell",
+      "linkType": "Northern",
+      "distanceMeters": 816,
+      "durationSeconds": 120,
+      "to": "Clapham North"
+    },
+    {
+      "direction": "Morden",
+      "from": "Clapham North",
+      "linkType": "Northern",
+      "distanceMeters": 657,
+      "durationSeconds": 120,
+      "to": "Clapham Common"
+    },
+    {
+      "direction": "Morden",
+      "from": "Clapham Common",
+      "linkType": "Northern",
+      "distanceMeters": 1244,
+      "durationSeconds": 150,
+      "to": "Clapham South"
+    },
+    {
+      "direction": "Morden",
+      "from": "Clapham South",
+      "linkType": "Northern",
+      "distanceMeters": 1131,
+      "durationSeconds": 120,
+      "to": "Balham"
+    },
+    {
+      "direction": "Morden",
+      "from": "Balham",
+      "linkType": "Northern",
+      "distanceMeters": 1026,
+      "durationSeconds": 120,
+      "to": "Tooting Bec"
+    },
+    {
+      "direction": "Morden",
+      "from": "Tooting Bec",
+      "linkType": "Northern",
+      "distanceMeters": 1112,
+      "durationSeconds": 120,
+      "to": "Tooting Broadway"
+    },
+    {
+      "direction": "Morden",
+      "from": "Tooting Broadway",
+      "linkType": "Northern",
+      "distanceMeters": 1217,
+      "durationSeconds": 120,
+      "to": "Colliers Wood"
+    },
+    {
+      "direction": "Morden",
+      "from": "Colliers Wood",
+      "linkType": "Northern",
+      "distanceMeters": 1188,
+      "durationSeconds": 120,
+      "to": "South Wimbledon"
+    },
+    {
+      "direction": "Morden",
+      "from": "South Wimbledon",
+      "linkType": "Northern",
+      "distanceMeters": 1500,
+      "durationSeconds": 300,
+      "to": "Morden"
+    },
+

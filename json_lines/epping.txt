@@ -1,0 +1,56 @@
+{
+  "to": "North Acton",
+  "durationSeconds": 240,
+  "distanceMeters": 2453,
+  "linkType": "Central",
+  "from": "Hanger Lane",
+  "direction": "Hainault via Woodford"
+},
+{
+  "to": "Hanger Lane",
+  "durationSeconds": 180,
+  "distanceMeters": 2164,
+  "linkType": "Central",
+  "from": "Perivale",
+  "direction": "Hainault via Woodford"
+},
+{
+  "to": "Perivale",
+  "durationSeconds": 120,
+  "distanceMeters": 1691,
+  "linkType": "Central",
+  "from": "Greenford",
+  "direction": "Hainault via Woodford"
+},
+{
+  "to": "Greenford",
+  "durationSeconds": 120,
+  "distanceMeters": 1780,
+  "linkType": "Central",
+  "from": "Northolt",
+  "direction": "Hainault via Woodford"
+},
+{
+  "to": "Northolt",
+  "durationSeconds": 180,
+  "distanceMeters": 2317,
+  "linkType": "Central",
+  "from": "South Ruislip",
+  "direction": "Hainault via Woodford"
+},
+{
+  "to": "South Ruislip",
+  "durationSeconds": 60,
+  "distanceMeters": 900,
+  "linkType": "Central",
+  "from": "Ruislip Gardens",
+  "direction": "Hainault via Woodford"
+},
+{
+  "to": "Ruislip Gardens",
+  "durationSeconds": 120,
+  "distanceMeters": 2088,
+  "linkType": "Central",
+  "from": "West Ruislip",
+  "direction": "Hainault via Woodford"
+},

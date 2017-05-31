@@ -1,0 +1,291 @@
+[
+    {
+      "direction": "Lewisham",
+      "from": "Stratford",
+      "linkType": "DLR",
+      "distanceMeters": 1033,
+      "durationSeconds": 120,
+      "to": "Pudding Mill Lane"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Pudding Mill Lane",
+      "linkType": "DLR",
+      "distanceMeters": 1026,
+      "durationSeconds": 120,
+      "to": "Bow Church DLR"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Bow Church DLR",
+      "linkType": "DLR",
+      "distanceMeters": 624,
+      "durationSeconds": 120,
+      "to": "Devons Road"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Devons Road",
+      "linkType": "DLR",
+      "distanceMeters": 844,
+      "durationSeconds": 60,
+      "to": "Langdon Park"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Langdon Park",
+      "linkType": "DLR",
+      "distanceMeters": 486,
+      "durationSeconds": 120,
+      "to": "All Saints"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "All Saints",
+      "linkType": "DLR",
+      "distanceMeters": 729,
+      "durationSeconds": 120,
+      "to": "Poplar"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Poplar",
+      "linkType": "DLR",
+      "distanceMeters": 225,
+      "durationSeconds": 60,
+      "to": "West India Quay"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "West India Quay",
+      "linkType": "DLR",
+      "distanceMeters": 230,
+      "durationSeconds": 60,
+      "to": "Canary Wharf DLR"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Canary Wharf DLR",
+      "linkType": "DLR",
+      "distanceMeters": 204,
+      "durationSeconds": 120,
+      "to": "Heron Quays"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Heron Quays",
+      "linkType": "DLR",
+      "distanceMeters": 649,
+      "durationSeconds": 120,
+      "to": "South Quay"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "South Quay",
+      "linkType": "DLR",
+      "distanceMeters": 612,
+      "durationSeconds": 120,
+      "to": "Crossharbour"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Crossharbour",
+      "linkType": "DLR",
+      "distanceMeters": 593,
+      "durationSeconds": 120,
+      "to": "Mudchute"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Mudchute",
+      "linkType": "DLR",
+      "distanceMeters": 463,
+      "durationSeconds": 120,
+      "to": "Island Gardens"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Island Gardens",
+      "linkType": "DLR",
+      "distanceMeters": 653,
+      "durationSeconds": 120,
+      "to": "Cutty Sark"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Cutty Sark",
+      "linkType": "DLR",
+      "distanceMeters": 618,
+      "durationSeconds": 120,
+      "to": "Greenwich"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Greenwich",
+      "linkType": "DLR",
+      "distanceMeters": 766,
+      "durationSeconds": 120,
+      "to": "Deptford Bridge"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Deptford Bridge",
+      "linkType": "DLR",
+      "distanceMeters": 762,
+      "durationSeconds": 120,
+      "to": "Elverson Road"
+    },
+    {
+      "direction": "Lewisham",
+      "from": "Elverson Road",
+      "linkType": "DLR",
+      "distanceMeters": 486,
+      "durationSeconds": 60,
+      "to": "Lewisham"
+    },
+
+    {
+      "direction": "Stratford",
+      "from": "Heron Quays",
+      "linkType": "DLR",
+      "distanceMeters": 204,
+      "durationSeconds": 120,
+      "to": "Canary Wharf DLR"
+    },
+    {
+      "direction": "Stratford",
+      "from": "West India Quay",
+      "linkType": "DLR",
+      "distanceMeters": 225,
+      "durationSeconds": 120,
+      "to": "Poplar"
+    },
+    {
+      "direction": "Stratford",
+      "from": "South Quay",
+      "linkType": "DLR",
+      "distanceMeters": 649,
+      "durationSeconds": 120,
+      "to": "Heron Quays"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Elverson Road",
+      "linkType": "DLR",
+      "distanceMeters": 762,
+      "durationSeconds": 120,
+      "to": "Deptford Bridge"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Devons Road",
+      "linkType": "DLR",
+      "distanceMeters": 624,
+      "durationSeconds": 60,
+      "to": "Bow Church DLR"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Pudding Mill Lane",
+      "linkType": "DLR",
+      "distanceMeters": 1033,
+      "durationSeconds": 120,
+      "to": "Stratford"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Crossharbour",
+      "linkType": "DLR",
+      "distanceMeters": 612,
+      "durationSeconds": 60,
+      "to": "South Quay"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Langdon Park",
+      "linkType": "DLR",
+      "distanceMeters": 844,
+      "durationSeconds": 60,
+      "to": "Devons Road"
+    },
+    {
+      "direction": "Stratford",
+      "from": "All Saints",
+      "linkType": "DLR",
+      "distanceMeters": 486,
+      "durationSeconds": 60,
+      "to": "Langdon Park"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Cutty Sark",
+      "linkType": "DLR",
+      "distanceMeters": 653,
+      "durationSeconds": 120,
+      "to": "Island Gardens"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Island Gardens",
+      "linkType": "DLR",
+      "distanceMeters": 463,
+      "durationSeconds": 120,
+      "to": "Mudchute"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Deptford Bridge",
+      "linkType": "DLR",
+      "distanceMeters": 766,
+      "durationSeconds": 120,
+      "to": "Greenwich"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Mudchute",
+      "linkType": "DLR",
+      "distanceMeters": 593,
+      "durationSeconds": 120,
+      "to": "Crossharbour"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Bow Church DLR",
+      "linkType": "DLR",
+      "distanceMeters": 1026,
+      "durationSeconds": 120,
+      "to": "Pudding Mill Lane"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Greenwich",
+      "linkType": "DLR",
+      "distanceMeters": 618,
+      "durationSeconds": 120,
+      "to": "Cutty Sark"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Canary Wharf DLR",
+      "linkType": "DLR",
+      "distanceMeters": 230,
+      "durationSeconds": 60,
+      "to": "West India Quay"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Lewisham",
+      "linkType": "DLR",
+      "distanceMeters": 486,
+      "durationSeconds": 120,
+      "to": "Elverson Road"
+    },
+    {
+      "direction": "Stratford",
+      "from": "Poplar",
+      "linkType": "DLR",
+      "distanceMeters": 729,
+      "durationSeconds": 60,
+      "to": "All Saints"
+    },
+]

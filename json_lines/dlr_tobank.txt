@@ -1,0 +1,195 @@
+    {
+      "direction": "Bank",
+      "from": "Woolwich Arsenal DLR",
+      "linkType": "DLR",
+      "distanceMeters": 3227,
+      "durationSeconds": 240,
+      "to": "King George V."
+    },
+    {
+      "direction": "Bank",
+      "from": "King George V.",
+      "linkType": "DLR",
+      "distanceMeters": 960,
+      "durationSeconds": 120,
+      "to": "London City Airport"
+    },
+    {
+      "direction": "Bank",
+      "from": "London City Airport",
+      "linkType": "DLR",
+      "distanceMeters": 1157,
+      "durationSeconds": 120,
+      "to": "Pontoon Dock"
+    },
+    {
+      "direction": "Bank",
+      "from": "Pontoon Dock",
+      "linkType": "DLR",
+      "distanceMeters": 770,
+      "durationSeconds": 120,
+      "to": "West Silvertown DLR"
+    },
+    {
+      "direction": "Bank",
+      "from": "West Silvertown DLR",
+      "linkType": "DLR",
+      "distanceMeters": 1709,
+      "durationSeconds": 180,
+      "to": "Canning Town"
+    },
+
+    {
+      "direction": "Bank",
+      "from": "Canning Town",
+      "linkType": "DLR",
+      "distanceMeters": 962,
+      "durationSeconds": 120,
+      "to": "East India"
+    },
+    {
+      "direction": "Bank",
+      "from": "East India",
+      "linkType": "DLR",
+      "distanceMeters": 430,
+      "durationSeconds": 120,
+      "to": "Blackwall"
+    },
+    {
+      "direction": "Bank",
+      "from": "Blackwall",
+      "linkType": "DLR",
+      "distanceMeters": 738,
+      "durationSeconds": 120,
+      "to": "Poplar"
+    },
+    {
+      "direction": "Bank",
+      "from": "Poplar",
+      "linkType": "DLR",
+      "distanceMeters": 700,
+      "durationSeconds": 120,
+      "to": "Westferry"
+    },
+    {
+      "direction": "Bank",
+      "from": "Westferry",
+      "linkType": "DLR",
+      "distanceMeters": 1013,
+      "durationSeconds": 120,
+      "to": "Limehouse"
+    },
+    {
+      "direction": "Bank",
+      "from": "Limehouse",
+      "linkType": "DLR",
+      "distanceMeters": 1112,
+      "durationSeconds": 120,
+      "to": "Shadwell"
+    },
+    {
+      "direction": "Bank",
+      "from": "Shadwell",
+      "linkType": "DLR",
+      "distanceMeters": 2354,
+      "durationSeconds": 240,
+      "to": "Bank"
+    },
+
+
+    {
+      "direction": "Bank",
+      "from": "Lewisham",
+      "linkType": "DLR",
+      "distanceMeters": 486,
+      "durationSeconds": 120,
+      "to": "Elverson Road"
+    },
+    {
+      "direction": "Bank",
+      "from": "Elverson Road",
+      "linkType": "DLR",
+      "distanceMeters": 762,
+      "durationSeconds": 120,
+      "to": "Deptford Bridge"
+    },
+    {
+      "direction": "Bank",
+      "from": "Deptford Bridge",
+      "linkType": "DLR",
+      "distanceMeters": 766,
+      "durationSeconds": 120,
+      "to": "Greenwich"
+    },
+    {
+      "direction": "Bank",
+      "from": "Greenwich",
+      "linkType": "DLR",
+      "distanceMeters": 618,
+      "durationSeconds": 120,
+      "to": "Cutty Sark"
+    },
+    {
+      "direction": "Bank",
+      "from": "Cutty Sark",
+      "linkType": "DLR",
+      "distanceMeters": 653,
+      "durationSeconds": 120,
+      "to": "Island Gardens"
+    },
+    {
+      "direction": "Bank",
+      "from": "Island Gardens",
+      "linkType": "DLR",
+      "distanceMeters": 463,
+      "durationSeconds": 120,
+      "to": "Mudchute"
+    },
+    {
+      "direction": "Bank",
+      "from": "Mudchute",
+      "linkType": "DLR",
+      "distanceMeters": 593,
+      "durationSeconds": 120,
+      "to": "Crossharbour"
+    },
+    {
+      "direction": "Bank",
+      "from": "Crossharbour",
+      "linkType": "DLR",
+      "distanceMeters": 612,
+      "durationSeconds": 60,
+      "to": "South Quay"
+    },
+    {
+      "direction": "Bank",
+      "from": "South Quay",
+      "linkType": "DLR",
+      "distanceMeters": 649,
+      "durationSeconds": 120,
+      "to": "Heron Quays"
+    },
+    {
+      "direction": "Bank",
+      "from": "Heron Quays",
+      "linkType": "DLR",
+      "distanceMeters": 204,
+      "durationSeconds": 120,
+      "to": "Canary Wharf DLR"
+    },
+    {
+      "direction": "Bank",
+      "from": "Canary Wharf DLR",
+      "linkType": "DLR",
+      "distanceMeters": 230,
+      "durationSeconds": 60,
+      "to": "West India Quay"
+    },
+    {
+      "direction": "Bank",
+      "from": "West India Quay",
+      "linkType": "DLR",
+      "distanceMeters": 558,
+      "durationSeconds": 120,
+      "to": "Westferry"
+    },

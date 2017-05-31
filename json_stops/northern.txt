@@ -1,0 +1,408 @@
+[{
+  "to": "Moorgate",
+  "from": "Old Street"
+},
+{
+  "to": "Clapham Common",
+  "from": "Clapham North"
+},
+{
+  "to": "Hendon Central",
+  "from": "Brent Cross"
+},
+{
+  "to": "Waterloo",
+  "from": "Kennington"
+},
+{
+  "to": "Mornington Crescent",
+  "from": "Camden Town"
+},
+{
+  "to": "Camden Town",
+  "from": "Kentish Town"
+},
+{
+  "to": "Tufnell Park",
+  "from": "Kentish Town"
+},
+{
+  "to": "Finchley Central",
+  "from": "Mill Hill East"
+},
+{
+  "to": "Embankment",
+  "from": "Waterloo"
+},
+{
+  "to": "Borough",
+  "from": "Elephant & Castle"
+},
+{
+  "to": "Morden",
+  "from": "South Wimbledon"
+},
+{
+  "to": "Brent Cross",
+  "from": "Hendon Central"
+},
+{
+  "to": "London Bridge",
+  "from": "Borough"
+},
+{
+  "to": "Hampstead",
+  "from": "Belsize Park"
+},
+{
+  "to": "Chalk Farm",
+  "from": "Camden Town"
+},
+{
+  "to": "Archway",
+  "from": "Highgate"
+},
+{
+  "to": "Warren Street",
+  "from": "Goodge Street"
+},
+{
+  "to": "Old Street",
+  "from": "Moorgate"
+},
+{
+  "to": "Clapham Common",
+  "from": "Clapham South"
+},
+{
+  "to": "Clapham South",
+  "from": "Clapham Common"
+},
+{
+  "to": "Highgate",
+  "from": "Archway"
+},
+{
+  "to": "East Finchley",
+  "from": "Finchley Central"
+},
+{
+  "to": "Mornington Crescent",
+  "from": "Euston"
+},
+{
+  "to": "Finchley Central",
+  "from": "East Finchley"
+},
+{
+  "to": "Woodside Park",
+  "from": "Totteridge & Whetstone"
+},
+{
+  "to": "Balham",
+  "from": "Tooting Bec"
+},
+{
+  "to": "Colliers Wood",
+  "from": "Tooting Broadway"
+},
+{
+  "to": "Euston",
+  "from": "Camden Town"
+},
+{
+  "to": "Embankment",
+  "from": "Charing Cross"
+},
+{
+  "to": "Elephant & Castle",
+  "from": "Borough"
+},
+{
+  "to": "Borough",
+  "from": "London Bridge"
+},
+{
+  "to": "Euston",
+  "from": "Mornington Crescent"
+},
+{
+  "to": "East Finchley",
+  "from": "Highgate"
+},
+{
+  "to": "Camden Town",
+  "from": "Mornington Crescent"
+},
+{
+  "to": "Tufnell Park",
+  "from": "Archway"
+},
+{
+  "to": "West Finchley",
+  "from": "Woodside Park"
+},
+{
+  "to": "Clapham North",
+  "from": "Stockwell"
+},
+{
+  "to": "Tooting Bec",
+  "from": "Tooting Broadway"
+},
+{
+  "to": "Clapham South",
+  "from": "Balham"
+},
+{
+  "to": "Hendon Central",
+  "from": "Colindale"
+},
+{
+  "to": "South Wimbledon",
+  "from": "Morden"
+},
+{
+  "to": "Angel",
+  "from": "Old Street"
+},
+{
+  "to": "Colindale",
+  "from": "Hendon Central"
+},
+{
+  "to": "Burnt Oak",
+  "from": "Edgware"
+},
+{
+  "to": "West Finchley",
+  "from": "Finchley Central"
+},
+{
+  "to": "Finchley Central",
+  "from": "West Finchley"
+},
+{
+  "to": "King's Cross St. Pancras",
+  "from": "Euston"
+},
+{
+  "to": "Woodside Park",
+  "from": "West Finchley"
+},
+{
+  "to": "Belsize Park",
+  "from": "Hampstead"
+},
+{
+  "to": "Chalk Farm",
+  "from": "Belsize Park"
+},
+{
+  "to": "Euston",
+  "from": "King's Cross St. Pancras"
+},
+{
+  "to": "Warren Street",
+  "from": "Euston"
+},
+{
+  "to": "London Bridge",
+  "from": "Bank"
+},
+{
+  "to": "High Barnet",
+  "from": "Totteridge & Whetstone"
+},
+{
+  "to": "Colliers Wood",
+  "from": "South Wimbledon"
+},
+{
+  "to": "Stockwell",
+  "from": "Oval"
+},
+{
+  "to": "Waterloo",
+  "from": "Embankment"
+},
+{
+  "to": "Clapham North",
+  "from": "Clapham Common"
+},
+{
+  "to": "Burnt Oak",
+  "from": "Colindale"
+},
+{
+  "to": "Bank",
+  "from": "London Bridge"
+},
+{
+  "to": "Leicester Square",
+  "from": "Charing Cross"
+},
+{
+  "to": "South Wimbledon",
+  "from": "Colliers Wood"
+},
+{
+  "to": "Totteridge & Whetstone",
+  "from": "High Barnet"
+},
+{
+  "to": "Elephant & Castle",
+  "from": "Kennington"
+},
+{
+  "to": "King's Cross St. Pancras",
+  "from": "Angel"
+},
+{
+  "to": "Leicester Square",
+  "from": "Tottenham Court Road"
+},
+{
+  "to": "Camden Town",
+  "from": "Euston"
+},
+{
+  "to": "Edgware",
+  "from": "Burnt Oak"
+},
+{
+  "to": "Oval",
+  "from": "Kennington"
+},
+{
+  "to": "Brent Cross",
+  "from": "Golders Green"
+},
+{
+  "to": "Kennington",
+  "from": "Elephant & Castle"
+},
+{
+  "to": "Golders Green",
+  "from": "Brent Cross"
+},
+{
+  "to": "Highgate",
+  "from": "East Finchley"
+},
+{
+  "to": "Balham",
+  "from": "Clapham South"
+},
+{
+  "to": "Charing Cross",
+  "from": "Embankment"
+},
+{
+  "to": "Old Street",
+  "from": "Angel"
+},
+{
+  "to": "Moorgate",
+  "from": "Bank"
+},
+{
+  "to": "Tottenham Court Road",
+  "from": "Goodge Street"
+},
+{
+  "to": "Totteridge & Whetstone",
+  "from": "Woodside Park"
+},
+{
+  "to": "Kennington",
+  "from": "Oval"
+},
+{
+  "to": "Stockwell",
+  "from": "Clapham North"
+},
+{
+  "to": "Mill Hill East",
+  "from": "Finchley Central"
+},
+{
+  "to": "Archway",
+  "from": "Tufnell Park"
+},
+{
+  "to": "Golders Green",
+  "from": "Hampstead"
+},
+{
+  "to": "Tottenham Court Road",
+  "from": "Leicester Square"
+},
+{
+  "to": "Bank",
+  "from": "Moorgate"
+},
+{
+  "to": "Kennington",
+  "from": "Waterloo"
+},
+{
+  "to": "Tooting Broadway",
+  "from": "Tooting Bec"
+},
+{
+  "to": "Angel",
+  "from": "King's Cross St. Pancras"
+},
+{
+  "to": "Camden Town",
+  "from": "Chalk Farm"
+},
+{
+  "to": "Euston",
+  "from": "Warren Street"
+},
+{
+  "to": "Kentish Town",
+  "from": "Camden Town"
+},
+{
+  "to": "Goodge Street",
+  "from": "Warren Street"
+},
+{
+  "to": "Goodge Street",
+  "from": "Tottenham Court Road"
+},
+{
+  "to": "Colindale",
+  "from": "Burnt Oak"
+},
+{
+  "to": "Oval",
+  "from": "Stockwell"
+},
+{
+  "to": "Hampstead",
+  "from": "Golders Green"
+},
+{
+  "to": "Tooting Bec",
+  "from": "Balham"
+},
+{
+  "to": "Charing Cross",
+  "from": "Leicester Square"
+},
+{
+  "to": "Belsize Park",
+  "from": "Chalk Farm"
+},
+{
+  "to": "Kentish Town",
+  "from": "Tufnell Park"
+},
+{
+  "to": "Tooting Broadway",
+  "from": "Colliers Wood"
+}]

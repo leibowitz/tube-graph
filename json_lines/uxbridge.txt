@@ -1,0 +1,216 @@
+    {
+      "direction": "Uxbridge",
+      "from": "Earl's Court",
+      "linkType": "Piccadilly",
+      "distanceMeters": 1550,
+      "durationSeconds": 180,
+      "to": "Barons Court"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Holborn",
+      "linkType": "Piccadilly",
+      "distanceMeters": 625,
+      "durationSeconds": 120,
+      "to": "Covent Garden"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Gloucester Road",
+      "linkType": "Piccadilly",
+      "distanceMeters": 890,
+      "durationSeconds": 120,
+      "to": "Earl's Court"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Arsenal",
+      "linkType": "Piccadilly",
+      "distanceMeters": 747,
+      "durationSeconds": 60,
+      "to": "Holloway Road"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Hammersmith",
+      "linkType": "Piccadilly",
+      "distanceMeters": 2188,
+      "durationSeconds": 240,
+      "to": "Turnham Green"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Covent Garden",
+      "linkType": "Piccadilly",
+      "distanceMeters": 277,
+      "durationSeconds": 90,
+      "to": "Leicester Square"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Green Park",
+      "linkType": "Piccadilly",
+      "distanceMeters": 918,
+      "durationSeconds": 120,
+      "to": "Hyde Park Corner"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Bounds Green",
+      "linkType": "Piccadilly",
+      "distanceMeters": 1508,
+      "durationSeconds": 180,
+      "to": "Wood Green"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Knightsbridge",
+      "linkType": "Piccadilly",
+      "distanceMeters": 1322,
+      "durationSeconds": 180,
+      "to": "South Kensington"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Caledonian Road",
+      "linkType": "Piccadilly",
+      "distanceMeters": 1978,
+      "durationSeconds": 240,
+      "to": "King's Cross St. Pancras"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Hyde Park Corner",
+      "linkType": "Piccadilly",
+      "distanceMeters": 595,
+      "durationSeconds": 60,
+      "to": "Knightsbridge"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Piccadilly Circus",
+      "linkType": "Piccadilly",
+      "distanceMeters": 559,
+      "durationSeconds": 120,
+      "to": "Green Park"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Russell Square",
+      "linkType": "Piccadilly",
+      "distanceMeters": 741,
+      "durationSeconds": 120,
+      "to": "Holborn"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "South Kensington",
+      "linkType": "Piccadilly",
+      "distanceMeters": 693,
+      "durationSeconds": 120,
+      "to": "Gloucester Road"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Cockfosters",
+      "linkType": "Piccadilly",
+      "distanceMeters": 1315,
+      "durationSeconds": 120,
+      "to": "Oakwood"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Barons Court",
+      "linkType": "Piccadilly",
+      "distanceMeters": 811,
+      "durationSeconds": 180,
+      "to": "Hammersmith"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "King's Cross St. Pancras",
+      "linkType": "Piccadilly",
+      "distanceMeters": 931,
+      "durationSeconds": 120,
+      "to": "Russell Square"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Wood Green",
+      "linkType": "Piccadilly",
+      "distanceMeters": 977,
+      "durationSeconds": 120,
+      "to": "Turnpike Lane"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Turnham Green",
+      "linkType": "Piccadilly",
+      "distanceMeters": 2199,
+      "durationSeconds": 240,
+      "to": "Acton Town"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Arnos Grove",
+      "linkType": "Piccadilly",
+      "distanceMeters": 1317,
+      "durationSeconds": 120,
+      "to": "Bounds Green"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Oakwood",
+      "linkType": "Piccadilly",
+      "distanceMeters": 1873,
+      "durationSeconds": 120,
+      "to": "Southgate"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Turnpike Lane",
+      "linkType": "Piccadilly",
+      "distanceMeters": 2277,
+      "durationSeconds": 180,
+      "to": "Manor House"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Southgate",
+      "linkType": "Piccadilly",
+      "distanceMeters": 1986,
+      "durationSeconds": 300,
+      "to": "Arnos Grove"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Manor House",
+      "linkType": "Piccadilly",
+      "distanceMeters": 1010,
+      "durationSeconds": 120,
+      "to": "Finsbury Park"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Holloway Road",
+      "linkType": "Piccadilly",
+      "distanceMeters": 593,
+      "durationSeconds": 60,
+      "to": "Caledonian Road"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Finsbury Park",
+      "linkType": "Piccadilly",
+      "distanceMeters": 660,
+      "durationSeconds": 60,
+      "to": "Arsenal"
+    },
+    {
+      "direction": "Uxbridge",
+      "from": "Leicester Square",
+      "linkType": "Piccadilly",
+      "distanceMeters": 553,
+      "durationSeconds": 60,
+      "to": "Piccadilly Circus"
+    },

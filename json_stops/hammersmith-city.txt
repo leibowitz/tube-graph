@@ -1,0 +1,208 @@
+[{
+  "to": "Euston Square",
+  "from": "Great Portland Street"
+},
+{
+  "to": "Barbican",
+  "from": "Moorgate"
+},
+{
+  "to": "Bow Road",
+  "from": "Bromley-By-Bow"
+},
+{
+  "to": "Whitechapel",
+  "from": "Stepney Green"
+},
+{
+  "to": "West Ham",
+  "from": "Bromley-By-Bow"
+},
+{
+  "to": "Whitechapel",
+  "from": "Aldgate East"
+},
+{
+  "to": "Goldhawk Road",
+  "from": "Hammersmith"
+},
+{
+  "to": "Stepney Green",
+  "from": "Mile End"
+},
+{
+  "to": "Euston Square",
+  "from": "King's Cross St. Pancras"
+},
+{
+  "to": "East Ham",
+  "from": "Upton Park"
+},
+{
+  "to": "Westbourne Park",
+  "from": "Ladbroke Grove"
+},
+{
+  "to": "Royal Oak",
+  "from": "Paddington"
+},
+{
+  "to": "Moorgate",
+  "from": "Barbican"
+},
+{
+  "to": "Stepney Green",
+  "from": "Whitechapel"
+},
+{
+  "to": "Shepherd's Bush Market",
+  "from": "Goldhawk Road"
+},
+{
+  "to": "Westbourne Park",
+  "from": "Royal Oak"
+},
+{
+  "to": "Ladbroke Grove",
+  "from": "Westbourne Park"
+},
+{
+  "to": "Great Portland Street",
+  "from": "Baker Street"
+},
+{
+  "to": "Hammersmith",
+  "from": "Goldhawk Road"
+},
+{
+  "to": "Upton Park",
+  "from": "East Ham"
+},
+{
+  "to": "Royal Oak",
+  "from": "Westbourne Park"
+},
+{
+  "to": "Farringdon",
+  "from": "Barbican"
+},
+{
+  "to": "King's Cross St. Pancras",
+  "from": "Farringdon"
+},
+{
+  "to": "Paddington",
+  "from": "Edgware Road"
+},
+{
+  "to": "East Ham",
+  "from": "Barking"
+},
+{
+  "to": "Plaistow",
+  "from": "West Ham"
+},
+{
+  "to": "West Ham",
+  "from": "Plaistow"
+},
+{
+  "to": "Plaistow",
+  "from": "Upton Park"
+},
+{
+  "to": "Bromley-By-Bow",
+  "from": "Bow Road"
+},
+{
+  "to": "Moorgate",
+  "from": "Liverpool Street"
+},
+{
+  "to": "Baker Street",
+  "from": "Edgware Road"
+},
+{
+  "to": "Edgware Road",
+  "from": "Baker Street"
+},
+{
+  "to": "Mile End",
+  "from": "Bow Road"
+},
+{
+  "to": "Great Portland Street",
+  "from": "Euston Square"
+},
+{
+  "to": "Aldgate East",
+  "from": "Whitechapel"
+},
+{
+  "to": "Edgware Road",
+  "from": "Paddington"
+},
+{
+  "to": "Mile End",
+  "from": "Stepney Green"
+},
+{
+  "to": "Farringdon",
+  "from": "King's Cross St. Pancras"
+},
+{
+  "to": "Barking",
+  "from": "East Ham"
+},
+{
+  "to": "Liverpool Street",
+  "from": "Moorgate"
+},
+{
+  "to": "Barbican",
+  "from": "Farringdon"
+},
+{
+  "to": "Bow Road",
+  "from": "Mile End"
+},
+{
+  "to": "Ladbroke Grove",
+  "from": "Latimer Road"
+},
+{
+  "to": "Aldgate East",
+  "from": "Liverpool Street"
+},
+{
+  "to": "King's Cross St. Pancras",
+  "from": "Euston Square"
+},
+{
+  "to": "Baker Street",
+  "from": "Great Portland Street"
+},
+{
+  "to": "Paddington",
+  "from": "Royal Oak"
+},
+{
+  "to": "Upton Park",
+  "from": "Plaistow"
+},
+{
+  "to": "Goldhawk Road",
+  "from": "Shepherd's Bush Market"
+},
+{
+  "to": "Liverpool Street",
+  "from": "Aldgate East"
+},
+{
+  "to": "Latimer Road",
+  "from": "Ladbroke Grove"
+},
+{
+  "to": "Bromley-By-Bow",
+  "from": "West Ham"
+}]

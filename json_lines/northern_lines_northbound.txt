@@ -1,0 +1,417 @@
+    {
+      "direction": "",
+      "from": "Morden",
+      "linkType": "Northern",
+      "distanceMeters": 1500,
+      "durationSeconds": 150,
+      "to": "South Wimbledon"
+    },
+    {
+      "direction": "",
+      "from": "South Wimbledon",
+      "linkType": "Northern",
+      "distanceMeters": 1188,
+      "durationSeconds": 120,
+      "to": "Colliers Wood"
+    },
+    {
+      "direction": "",
+      "from": "Colliers Wood",
+      "linkType": "Northern",
+      "distanceMeters": 1217,
+      "durationSeconds": 120,
+      "to": "Tooting Broadway"
+    },
+    {
+      "direction": "",
+      "from": "Tooting Broadway",
+      "linkType": "Northern",
+      "distanceMeters": 1112,
+      "durationSeconds": 120,
+      "to": "Tooting Bec"
+    },
+    {
+      "direction": "",
+      "from": "Tooting Bec",
+      "linkType": "Northern",
+      "distanceMeters": 1026,
+      "durationSeconds": 120,
+      "to": "Balham"
+    },
+    {
+      "direction": "",
+      "from": "Balham",
+      "linkType": "Northern",
+      "distanceMeters": 1131,
+      "durationSeconds": 120,
+      "to": "Clapham South"
+    },
+    {
+      "direction": "",
+      "from": "Clapham South",
+      "linkType": "Northern",
+      "distanceMeters": 1244,
+      "durationSeconds": 150,
+      "to": "Clapham Common"
+    },
+    {
+      "direction": "",
+      "from": "Clapham Common",
+      "linkType": "Northern",
+      "distanceMeters": 657,
+      "durationSeconds": 120,
+      "to": "Clapham North"
+    },
+    {
+      "direction": "",
+      "from": "Clapham North",
+      "linkType": "Northern",
+      "distanceMeters": 823,
+      "durationSeconds": 120,
+      "to": "Stockwell"
+    },
+    {
+      "direction": "",
+      "from": "Stockwell",
+      "linkType": "Northern",
+      "distanceMeters": 1300,
+      "durationSeconds": 150,
+      "to": "Oval"
+    },
+    {
+      "direction": "",
+      "from": "Oval",
+      "linkType": "Northern",
+      "distanceMeters": 903,
+      "durationSeconds": 330,
+      "to": "Kennington"
+    },
+
+// Charing cross branch, northbound
+    {
+      "direction": " via Charing Cross",
+      "from": "Kennington",
+      "linkType": "Northern",
+      "distanceMeters": 1780,
+      "durationSeconds": 180,
+      "to": "Waterloo"
+    },
+    {
+      "direction": " via Charing Cross",
+      "from": "Waterloo",
+      "linkType": "Northern",
+      "distanceMeters": 795,
+      "durationSeconds": 120,
+      "to": "Embankment"
+    },
+    {
+      "direction": " via Charing Cross",
+      "from": "Embankment",
+      "linkType": "Northern",
+      "distanceMeters": 278,
+      "durationSeconds": 60,
+      "to": "Charing Cross"
+    },
+    {
+      "direction": " via Charing Cross",
+      "from": "Charing Cross",
+      "linkType": "Northern",
+      "distanceMeters": 450,
+      "durationSeconds": 90,
+      "to": "Leicester Square"
+    },
+    {
+      "direction": " via Charing Cross",
+      "from": "Leicester Square",
+      "linkType": "Northern",
+      "distanceMeters": 464,
+      "durationSeconds": 90,
+      "to": "Tottenham Court Road"
+    },
+    {
+      "direction": " via Charing Cross",
+      "from": "Tottenham Court Road",
+      "linkType": "Northern",
+      "distanceMeters": 603,
+      "durationSeconds": 90,
+      "to": "Goodge Street"
+    },
+    {
+      "direction": " via Charing Cross",
+      "from": "Goodge Street",
+      "linkType": "Northern",
+      "distanceMeters": 463,
+      "durationSeconds": 90,
+      "to": "Warren Street"
+    },
+    {
+      "direction": " via Charing Cross",
+      "from": "Warren Street",
+      "linkType": "Northern",
+      "distanceMeters": 603,
+      "durationSeconds": 90,
+      "to": "Euston"
+    },
+    {
+      "direction": " via Charing Cross",
+      "from": "Euston",
+      "linkType": "Northern",
+      "distanceMeters": 794,
+      "durationSeconds": 120,
+      "to": "Mornington Crescent"
+    },
+    {
+      "direction": " via Charing Cross",
+      "from": "Mornington Crescent",
+      "linkType": "Northern",
+      "distanceMeters": 606,
+      "durationSeconds": 300,
+      "to": "Camden Town"
+    },
+
+// Bank branch, northbound
+    {
+      "direction": " via Bank",
+      "from": "Kennington",
+      "linkType": "Northern",
+      "distanceMeters": 842,
+      "durationSeconds": 120,
+      "to": "Elephant & Castle"
+    },
+    {
+      "direction": " via Bank",
+      "from": "Elephant & Castle",
+      "linkType": "Northern",
+      "distanceMeters": 836,
+      "durationSeconds": 120,
+      "to": "Borough"
+    },
+    {
+      "direction": " via Bank",
+      "from": "Borough",
+      "linkType": "Northern",
+      "distanceMeters": 637,
+      "durationSeconds": 120,
+      "to": "London Bridge"
+    },
+    {
+      "direction": " via Bank",
+      "from": "London Bridge",
+      "linkType": "Northern",
+      "distanceMeters": 775,
+      "durationSeconds": 120,
+      "to": "Bank"
+    },
+    {
+      "direction": " via Bank",
+      "from": "Bank",
+      "linkType": "Northern",
+      "distanceMeters": 775,
+      "durationSeconds": 120,
+      "to": "Moorgate"
+    },
+    {
+      "direction": " via Bank",
+      "from": "Moorgate",
+      "linkType": "Northern",
+      "distanceMeters": 684,
+      "durationSeconds": 120,
+      "to": "Old Street"
+    },
+    {
+      "direction": " via Bank",
+      "from": "Old Street",
+      "linkType": "Northern",
+      "distanceMeters": 1587,
+      "durationSeconds": 180,
+      "to": "Angel"
+    },
+    {
+      "direction": " via Bank",
+      "from": "Angel",
+      "linkType": "Northern",
+      "distanceMeters": 1120,
+      "durationSeconds": 150,
+      "to": "King's Cross St. Pancras"
+    },
+    {
+      "direction": " via Bank",
+      "from": "King's Cross St. Pancras",
+      "linkType": "Northern",
+      "distanceMeters": 821,
+      "durationSeconds": 210,
+      "to": "Euston"
+    },
+    {
+      "direction": " via Bank",
+      "from": "Euston",
+      "linkType": "Northern",
+      "distanceMeters": 1716,
+      "durationSeconds": 360,
+      "to": "Camden Town"
+    },
+
+// High barnet branch, northbound
+    {
+      "direction": "",
+      "from": "Camden Town",
+      "linkType": "Northern",
+      "distanceMeters": 1249,
+      "durationSeconds": 120,
+      "to": "Kentish Town"
+    },
+    {
+      "direction": "",
+      "from": "Kentish Town",
+      "linkType": "Northern",
+      "distanceMeters": 754,
+      "durationSeconds": 120,
+      "to": "Tufnell Park"
+    },
+    {
+      "direction": "",
+      "from": "Tufnell Park",
+      "linkType": "Northern",
+      "distanceMeters": 906,
+      "durationSeconds": 120,
+      "to": "Archway"
+    },
+    {
+      "direction": "",
+      "from": "Archway",
+      "linkType": "Northern",
+      "distanceMeters": 1695,
+      "durationSeconds": 180,
+      "to": "Highgate"
+    },
+    {
+      "direction": "",
+      "from": "Highgate",
+      "linkType": "Northern",
+      "distanceMeters": 1695,
+      "durationSeconds": 270,
+      "to": "East Finchley"
+    },
+    {
+      "direction": "",
+      "from": "East Finchley",
+      "linkType": "Northern",
+      "distanceMeters": 2473,
+      "durationSeconds": 480,
+      "to": "Finchley Central"
+    },
+    {
+      "direction": "",
+      "from": "Finchley Central",
+      "linkType": "Northern",
+      "distanceMeters": 1163,
+      "durationSeconds": 120,
+      "to": "West Finchley"
+    },
+    {
+      "direction": "",
+      "from": "West Finchley",
+      "linkType": "Northern",
+      "distanceMeters": 950,
+      "durationSeconds": 120,
+      "to": "Woodside Park"
+    },
+    {
+      "direction": "",
+      "from": "Woodside Park",
+      "linkType": "Northern",
+      "distanceMeters": 1496,
+      "durationSeconds": 150,
+      "to": "Totteridge & Whetstone"
+    },
+    {
+      "direction": "",
+      "from": "Totteridge & Whetstone",
+      "linkType": "Northern",
+      "distanceMeters": 2507,
+      "durationSeconds": 420,
+      "to": "High Barnet"
+    },
+
+    {
+      "direction": "Mill Hill East",
+      "from": "Finchley Central",
+      "linkType": "Northern",
+      "distanceMeters": 1440,
+      "durationSeconds": 180,
+      "to": "Mill Hill East"
+    },
+
+    {
+      "direction": "Edgware",
+      "from": "Camden Town",
+      "linkType": "Northern",
+      "distanceMeters": 960,
+      "durationSeconds": 90,
+      "to": "Chalk Farm"
+    },
+    {
+      "direction": "Edgware",
+      "from": "Chalk Farm",
+      "linkType": "Northern",
+      "distanceMeters": 1027,
+      "durationSeconds": 120,
+      "to": "Belsize Park"
+    },
+    {
+      "direction": "Edgware",
+      "from": "Belsize Park",
+      "linkType": "Northern",
+      "distanceMeters": 1193,
+      "durationSeconds": 150,
+      "to": "Hampstead"
+    },
+    {
+      "direction": "Edgware",
+      "from": "Hampstead",
+      "linkType": "Northern",
+      "distanceMeters": 2337,
+      "durationSeconds": 360,
+      "to": "Golders Green"
+    },
+    {
+      "direction": "Edgware",
+      "from": "Golders Green",
+      "linkType": "Northern",
+      "distanceMeters": 1510,
+      "durationSeconds": 150,
+      "to": "Brent Cross"
+    },
+    {
+      "direction": "Edgware",
+      "from": "Brent Cross",
+      "linkType": "Northern",
+      "distanceMeters": 1158,
+      "durationSeconds": 120,
+      "to": "Hendon Central"
+    },
+    {
+      "direction": "Edgware",
+      "from": "Hendon Central",
+      "linkType": "Northern",
+      "distanceMeters": 2149,
+      "durationSeconds": 180,
+      "to": "Colindale"
+    },
+    {
+      "direction": "Edgware",
+      "from": "Colindale",
+      "linkType": "Northern",
+      "distanceMeters": 1283,
+      "durationSeconds": 120,
+      "to": "Burnt Oak"
+    },
+    {
+      "direction": "Edgware",
+      "from": "Burnt Oak",
+      "linkType": "Northern",
+      "distanceMeters": 1448,
+      "durationSeconds": 420,
+      "to": "Edgware"
+    },
+
